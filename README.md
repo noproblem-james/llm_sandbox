@@ -1,1 +1,2 @@
-# llm_sandbox
+# LLM Sandbox
+Experimenting with LLMs.
