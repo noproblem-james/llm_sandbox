@@ -1,0 +1,73 @@
+@prefix kennedys: <http://topbraid.org/examples/kennedys#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# Individuals
+kennedys:PJ_Kennedy rdf:type kennedys:Patriarch ;
+    kennedys:firstName "Patrick Joseph" ;
+    kennedys:lastName "Kennedy" ;
+    kennedys:profession kennedys:politician, kennedys:businessman .
+
+kennedys:Rose_Kennedy rdf:type kennedys:Matriarch ;
+    kennedys:firstName "Rose Elizabeth Fitzgerald" ;
+    kennedys:lastName "Kennedy" ;
+    kennedys:profession kennedys:philanthropist, kennedys:socialite .
+
+kennedys:Joe_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Joseph Patrick" ;
+    kennedys:lastName "Kennedy Jr." ;
+    kennedys:profession kennedys:naval-aviator .
+
+kennedys:John_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "John Fitzgerald" ;
+    kennedys:lastName "Kennedy" ;
+    kennedys:profession kennedys:politician ;
+    kennedys:child kennedys:Joe_Kennedy ;
+    kennedys:spouse kennedys:Jacqueline_Bouvier .
+
+kennedys:Rosemary_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Rosemary" ;
+    kennedys:lastName "Kennedy" .
+
+kennedys:Kathleen_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Kathleen Agnes" ;
+    kennedys:lastName "Kennedy" ;
+    kennedys:profession kennedys:socialite .
+
+kennedys:Eunice_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Eunice Mary" ;
+    kennedys:lastName "Kennedy Shriver" ;
+    kennedys:profession kennedys:public-servant ;
+    kennedys:spouse kennedys:Robert_Sargent_Shriver_Jr .
+
+kennedys:Patricia_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Patricia" ;
+    kennedys:lastName "Kennedy Lawford" ;
+    kennedys:profession kennedys:businessperson .
+
+kennedys:Robert_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Robert Francis" ;
+    kennedys:lastName "Kennedy" ;
+    kennedys:profession kennedys:politician ;
+    kennedys:spouse kennedys:Ethel_Skakel .
+
+kennedys:Jean_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Jean Ann" ;
+    kennedys:lastName "Kennedy Smith" ;
+    kennedys:profession kennedys:diplomat ;
+    kennedys:spouse kennedys:Stephen_Edward_Smith .
+
+kennedys:Edward_Kennedy rdf:type kennedys:Person ;
+    kennedys:firstName "Edward Moore" ;
+    kennedys:lastName "Kennedy" ;
+    kennedys:profession kennedys:politician .
+
+# Relationships
+kennedys:PJ_Kennedy kennedys:child kennedys:Joe_Kennedy, kennedys:John_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Eunice_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:Rose_Kennedy kennedys:child kennedys:Joe_Kennedy, kennedys:John_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Eunice_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:Joe_Kennedy kennedys:sibling kennedys:John_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Eunice_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:John_Kennedy kennedys:sibling kennedys:Joe_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Eunice_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:Rosemary_Kennedy kennedys:sibling kennedys:Joe_Kennedy, kennedys:John_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Eunice_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:Kathleen_Kennedy kennedys:sibling kennedys:Joe_Kennedy, kennedys:John_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Eunice_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:Eunice_Kennedy kennedys:sibling kennedys:Joe_Kennedy, kennedys:John_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Patricia_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean_Kennedy, kennedys:Edward_Kennedy .
+kennedys:Patricia_Kennedy kennedys:sibling kennedys:Joe_Kennedy, kennedys:John_Kennedy, kennedys:Rosemary_Kennedy, kennedys:Kathleen_Kennedy, kennedys:Eunice_Kennedy, kennedys:Robert_Kennedy, kennedys:Jean .
