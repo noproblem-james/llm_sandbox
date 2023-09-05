@@ -1,555 +1,580 @@
-
 # October
-## Theme: Fall/Halloween history/Dia de los Muertos
+## Theme: Fall; Halloween; Dia de los Muertos
 
-# Language Arts
+## Language Arts
 
- 
-## Telling Tales
+## Storytelling with a Twist
+Students create their own spooky stories by adding a twist to traditional stories.
 
-### Students write their own spooky stories and share them with the class.
+### Time estimate: 2 hours
 
-### Time Estimate
-This activity should take approximately 60 minutes.
-
-### List of Materials
-- Paper 
-- Pencils
-- Markers
-- Storytelling props (optional)
-
-### Procedure
-1. Introduce the activity to the students and explain that they will be writing their own spooky stories.
-2. Have the students brainstorm ideas for their stories. Encourage them to think of characters, settings, and plot elements.
-3. Give the students time to write their stories.
-4. Once the stories are complete, have the students share their stories with the class.
-
-### Additional Notes
-- Encourage the students to be creative and to use descriptive language.
-- If the students need help getting started, provide them with a few story prompts.
-- If the students are having difficulty coming up with ideas, suggest that they look at a few spooky stories for inspiration.
-
-### Differentiation strategies
-- For students who need more support: provide them with a story outline to help them organize their ideas.
-- For students who need more challenge: have them write longer stories with more complex plot elements.
-- For neurodivergent students: provide them with a visual storyboard to help them organize their ideas.
-
- 
-## Mystery Words
-
-### Students use phonics to decode and spell Halloween-themed words.
-
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Whiteboard
-- Markers
-- Halloween-themed word cards
-
-### Procedure
-
-1. Begin the lesson by introducing the activity and explaining the objective. Explain that the students will be using phonics to decode and spell Halloween-themed words.
-
-2. Divide the class into two groups. Assign each group a set of Halloween-themed word cards.
-
-3. Have each group take turns attempting to decode and spell the words on their cards. Encourage the other group to provide support and feedback as needed.
-
-4. After each group has had a chance to attempt the words, have the class review the words together.
-
-5. Provide additional practice as needed.
-
-### Additional Notes
-
-- Encourage the students to use their phonics skills to sound out the words.
-- Provide positive reinforcement and praise when students are successful.
-
-### Differentiation strategies
-
-- For students who need more support: Provide additional time for practice and review, and offer more frequent feedback and support.
-
-- For students who need more challenge: Provide more difficult words and encourage the students to use their phonics skills to sound out the words.
-
-- For neurodivergent students: Provide visual cues and prompts to help the students stay focused and engaged.
-
- 
-## Halloween Word Search
-
-### Students search for Halloween-themed words in a grid of letters.
-
-### Time Estimate
-
-This activity should take approximately 30 minutes.
-
-### List of Materials
-
-- Pre-made Halloween word search grid
-- Pencils
-
-### Procedure
-
-1. Introduce the activity by explaining that students will be searching for Halloween-themed words in a grid of letters.
-2. Hand out the pre-made Halloween word search grid and pencils to each student.
-3. Give students time to search for the words in the grid.
-4. Once students have finished, have them share which words they found.
-
-### Additional Notes
-
-- Encourage students to talk to each other and work together to find words.
-- If students finish early, they can look for words in other languages, such as Spanish or French.
-
-### Differentiation strategies
-
-- For students who need more support: Provide them with a list of the words that they need to find.
-- For students who need more challenge: Provide them with an empty grid and ask them to create their own Halloween-themed word search.
-- For neurodivergent students: Provide a larger font size for the grid and/or allow them to use a computer to complete the activity.
-
- 
-## Storytelling with Pictures
-
-### Students create a story using pictures from magazines or the internet.
-
-### Time Estimate
-Approximately 45 minutes
-
-### List of Materials
-- Magazines or internet access
-- Paper
-- Pencils
-- Scissors
-
-### Procedure
-1. Introduce the activity to the students and explain the purpose of the activity.
-2. Ask the students to find pictures from magazines or the internet that they can use to create a story.
-3. Give the students time to find and cut out the pictures they want to use.
-4. Ask the students to arrange the pictures in the order that they want to tell their story.
-5. Ask the students to write a sentence or two to explain each picture.
-6. Ask the students to present their stories to the class.
-
-### Additional Notes
-- Encourage the students to be creative and use their imaginations.
-- Ask the students to think about how the pictures they choose are related to each other.
-- Ask the students to think about how to make the story flow logically.
-
-### Differentiation Strategies
-- For students who need more support: Provide sentence starters for each picture to help them get started.
-- For students who need more challenge: Ask the students to draw their own pictures to illustrate their story.
-- For neurodivergent students: Allow the students to work with a partner or in a small group to complete the activity.
-
-# Math
-
- 
-## Pumpkin Math: Estimation and Graphs
-
-### Create a graph of different types of pumpkins and have students estimate the number of pumpkins in each category. Then have them count the actual number and compare their estimates.
-
-### Time Estimate
-
-This activity should take approximately 30 minutes.
-
-### List of Materials
-
-- Pumpkins of various sizes and colors
-- Graph paper
-- Markers
-
-### Procedure
-
-1. Begin by introducing the activity to the students. Explain that they will be creating a graph of different types of pumpkins and then estimating the number of pumpkins in each category.
-2. Have the students work in pairs to create a graph on graph paper. Encourage them to use different colors and shapes to represent the different types of pumpkins.
-3. Once the graph is complete, have the students work in their pairs to estimate the number of pumpkins in each category.
-4. Once the estimates are complete, have the students count the actual number of pumpkins in each category and compare their estimates.
-5. Finally, have the students discuss their results and how their estimates were accurate or inaccurate.
-
-### Additional Notes
-
-- Encourage students to be creative with their graphs. They can use different colors, shapes, and sizes to represent the different types of pumpkins.
-- If needed, provide examples of graphs to help the students get started.
-
-### Differentiation strategies
-
-- For students who need more support, provide additional guidance and support when creating the graph and estimating the number of pumpkins in each category.
-- For students who need more challenge, have them create a more complex graph with more categories.
-- For neurodivergent students, provide additional time for them to complete the activity and provide visual aids to help them understand the concepts.
-
- 
-# Pumpkin Carving Math
-
-### Have students measure and draw a pumpkin shape on paper, then use the measurements to carve a real pumpkin.
-
-### Time Estimate
-
-This activity should take approximately 45 minutes to complete.
-
-### List of Materials
-
-- Paper
-- Pencils
-- Real pumpkin
-- Carving tools
-
-### Procedure
-
-1. Introduce the activity to the students and explain the purpose of the activity.
-2. Ask the students to draw a pumpkin shape on a piece of paper using a pencil.
-3. Ask the students to measure the pumpkin shape and record the measurements.
-4. Provide each student with a real pumpkin and carving tools.
-5. Ask the students to use the measurements they recorded to carve the pumpkin.
-6. Ask the students to show their carved pumpkins to the class.
-
-### Additional Notes
-
-- Encourage the students to be creative with their pumpkin designs.
-- Remind the students to be careful when using the carving tools.
-
-### Differentiation strategies
-
-- For students who need more support: Provide them with pre-measured pumpkin shapes and ask them to trace the shapes on the paper.
-- For students who need more challenge: Ask them to create more complex designs with multiple measurements and shapes.
-- For neurodivergent students: Allow them to work with a partner or in a small group to complete the activity.
-
- 
-## Fall/Halloween History
-
-### Have students research the history of Fall/Halloween and Dia de los Muertos and create a timeline of events.
-
-### Time Estimate
-
-This activity should take approximately 2 hours.
-
-### List of Materials
-
-- Computers with internet access
-- Paper
-- Pencils
-- Markers
-
-### Procedure
-
-1. Begin by introducing the topic of Fall/Halloween and Dia de los Muertos and explain why it is important to learn about the history of these celebrations.
-
-2. Divide the students into small groups and assign each group a research topic related to Fall/Halloween and Dia de los Muertos.
-
-3. Have each group research their assigned topic and create a timeline of events.
-
-4. Have each group present their timeline to the class.
-
-### Additional Notes
-
-- Encourage students to use a variety of sources for their research, including books, websites, and interviews.
-- Allow time for students to discuss their findings with each other.
-
-### Differentiation Strategies
-
-- For students who need more support: Provide additional scaffolding by breaking the research into smaller tasks and providing more structure for the timeline.
-
-- For students who need more challenge: Have students create a timeline that spans multiple centuries or have them create a timeline with more detailed information.
-
-- For neurodivergent students: Allow students to work independently or in a small group, provide visual aids to help explain the timeline, and provide additional time for the activity.
-
- 
-## Pumpkin Math: Counting and Sorting
-
-### Have students sort and count different types of pumpkins, then graph the results.
-
-### Time Estimate
-Approximately 30 minutes
-
-### List of Materials
-- Pumpkins of various sizes and colors
-- Graph paper
-- Pencils
-
-### Procedure
-1. Have students sort the pumpkins by size and color.
-2. Have students count the number of pumpkins in each group.
-3. Have students draw a graph on the graph paper to represent the number of pumpkins in each group.
-
-### Additional Notes
-- Encourage students to talk about the different sizes and colors of the pumpkins as they sort them.
-- Provide support to students who may need help counting the pumpkins.
-
-### Differentiation strategies
-- For students who need more support: Provide a visual chart of the different sizes and colors of pumpkins to help students sort them.
-- For students who need more challenge: Have students draw a bar graph with the number of pumpkins in each group.
-- For neurodivergent students: Allow students to use a calculator to help them count the pumpkins.
-
-# Social Studies
-
- 
-## Fall/Halloween History Timeline
-
-### Create a timeline of Fall/Halloween history and Dia de los Muertos, using pictures and words.
-
-### Time Estimate
-
-This activity should take approximately 90 minutes.
-
-### List of Materials
-
-- Construction paper
-- Glue
-- Markers
-- Scissors
-- Pictures of Fall/Halloween/Dia de los Muertos related events
-
-### Procedure
-
-1. Introduce the activity by having students brainstorm some events in Fall/Halloween/Dia de los Muertos history.
-2. Divide the students into groups of two or three and provide each group with construction paper, glue, markers, scissors, and pictures of Fall/Halloween/Dia de los Muertos related events.
-3. Have each group create a timeline of Fall/Halloween/Dia de los Muertos related events.
-4. Once the timelines are complete, have each group present their timeline to the class.
-
-### Additional Notes
-
-- Encourage students to be creative with their timelines. They can use different colors, shapes, and sizes to represent the events.
-- Have students research the events they include in their timeline to ensure accuracy.
-
-### Differentiation Strategies
-
-- For students who need more support: Provide additional guidance and support while students are creating their timelines.
-- For students who need more challenge: Have students research additional events to include in their timeline.
-- For neurodivergent students: Allow students to work independently or in smaller groups. Provide visual cues and prompts to help them stay on task.
-
- 
-## Create a Fall/Halloween Story
-
-### Write a story about Fall/Halloween and Dia de los Muertos, incorporating phonics and literacy skills.
-
-### Time Estimate
-
-This lesson should take approximately 45 minutes to complete.
-
-### List of Materials
-
+### Materials
 - Pencils
 - Paper
-- Colored pencils
-- Fall/Halloween-themed stickers
+- Storybooks
 
 ### Procedure
+1. Introduce the activity and explain the instructions
+2. Allow students to brainstorm ideas for their stories
+3. Provide students with time to write their stories
+4. Have students share their stories with the class
 
-1. Begin the lesson by introducing the topic of Fall/Halloween and Dia de los Muertos and discussing the importance of these holidays.
+### Additional notes
+- Encourage students to be creative and think outside the box when creating their stories
+- Remind students to add a twist to the traditional stories
+- Provide example stories for students to get ideas from
 
-2. Ask the students to brainstorm ideas for their stories. Encourage them to think about characters, settings, and plot.
+### Differentiation strategies
+- For students who need more support: Provide additional guidance and support when brainstorming and writing their stories
+- For students who need more challenge: Encourage students to add more detail to their stories and to think of more creative twists
+- For neurodivergent students: Allow students to work in a quiet space and provide them with additional time to complete the activity
 
-3. Once the students have brainstormed ideas, have them begin writing their stories.
+## Scary Word Search
+Students practice their phonics skills by finding spooky words in a word search.
 
-4. As the students are writing, circulate the room to provide assistance and answer questions.
+### Time estimate: 1 hour
 
-5. After the students have finished writing their stories, have them share their stories with the class.
+### Materials
+- pencils
+- word search worksheet
 
-6. Finally, have the students illustrate their stories using the colored pencils and stickers.
+### Procedure
+1. Introduce the activity and explain the purpose of the activity.
+2. Explain the rules of the activity and provide any necessary instructions.
+3. Allow students to work in pairs or individually to complete the word search.
+4. When students are finished, have them share their answers with the class.
+5. Discuss the answers and encourage students to explain their thinking.
 
-### Additional Notes
+### Additional notes
+- The word search should include spooky words such as 'ghost', 'witch', 'monster', etc.
+- Encourage students to think of other words that might fit the theme and add them to the word search.
+- Provide hints or clues if students are having difficulty finding the words.
 
-- Encourage the students to use phonics and literacy skills when writing their stories.
-- Ask the students to use vivid descriptions and interesting words in their stories.
+### Differentiation strategies
+- For students who need more support: provide a word bank with the words they need to find.
+- For students who need more challenge: provide a blank word search and ask them to come up with their own spooky words to fill it in.
+- For neurodivergent students: provide a simplified version of the word search with fewer words and larger spaces between them.
 
-### Differentiation Strategies
+## Halloween Haiku
+Students practice their creative writing skills by writing haikus about Halloween.
 
-- For students who need more support, provide them with a story starter or sentence frames to help them get started.
-- For students who need more challenge, encourage them to use more complex sentence structures and vocabulary.
-- For neurodivergent students, provide them with a quiet space to work and allow them to work at their own pace.
+### Time estimate: 1.5 hours
 
- 
-## Fall/Halloween Art Project
+### Materials
+- Paper
+- Pencils
+- Colored Pencils
 
-### Create a Fall/Halloween art project that reflects the cultural celebrations of the month.
+### Procedure
+1. Introduce the concept of haiku poetry and provide examples.
+2. Discuss the elements of haiku poetry (3 lines, 5-7-5 syllable pattern, and a focus on nature).
+3. Have students brainstorm ideas for their haikus.
+4. Have students write their haikus.
+5. Have students share their haikus with the class.
 
-### Time Estimate
-Approximately 2 hours
+### Additional notes
+- Explain that haikus are often about nature, but for this lesson, students can write about anything related to Halloween.
+- Provide examples of Halloween haikus for students who need more guidance.
+- Encourage students to be creative and to think outside the box.
 
-### List of Materials
-- Construction paper
-- Glue
-- Scissors
+### Differentiation strategies
+- For students who need more support: provide additional examples and prompts, and allow students to work in pairs or small groups.
+- For students who need more challenge: encourage students to use more complex language, and to use imagery to create vivid descriptions.
+- For neurodivergent students: provide additional structure and support, and allow students to work at their own pace.
+
+## Spooky Math
+Students practice their basic math skills by solving spooky themed math problems.
+
+### Time estimate: 2 hours
+
+### Materials
+- pencils
+- paper
+- calculators
+- spooky math worksheets
+
+### Procedure
+1. Introduce the lesson and explain the objective.
+2. Explain the spooky math worksheets, and have students complete them.
+3. Check student work and provide feedback.
+4. Review the answers with the class.
+
+### Additional notes
+- The worksheets should include questions and clues related to language_arts.
+- For students who need more support, provide additional guidance and support.
+- For students who need more challenge, provide additional questions and more difficult problems.
+- For neurodivergent students, provide visual aids and allow extra time to complete the worksheets.
+
+### Differentiation strategies
+- Provide additional guidance and support for students who need more support.
+- Provide additional questions and more difficult problems for students who need more challenge.
+- Provide visual aids and allow extra time to complete the worksheets for neurodivergent students.
+
+## Dia de los Muertos Art
+Students create art projects inspired by Dia de los Muertos.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Pencils
+- Crayons
 - Markers
 - Paint
-- Fall/Halloween-themed decorations
+- Clay
 
 ### Procedure
-1. Begin by discussing the different cultural celebrations associated with Fall/Halloween.
-2. Ask students to brainstorm ideas for their art project.
-3. Give students time to plan out their project.
-4. Provide students with the materials they need to create their art project.
-5. Give students time to create their art project.
-6. Have students present their art project to the class.
+1. Introduce the topic of Dia de los Muertos and its cultural significance
+2. Discuss the elements of traditional Dia de los Muertos art
+3. Provide examples of Dia de los Muertos art for students to look at and discuss
+4. Allow students to choose the medium they will use to create their art
+5. Provide students with time to create their art
+6. Allow students to share their art with the class
 
-### Additional Notes
-- Encourage students to be creative and use their imaginations.
-- Remind students to use appropriate safety precautions when using scissors and other materials.
-
-### Differentiation Strategies
-- For students who need more support: Provide additional guidance and support when brainstorming and planning their project.
-- For students who need more challenge: Encourage students to use more intricate designs and materials.
-- For neurodivergent students: Provide additional breaks and allow students to work at their own pace.
-
- 
-## Fall/Halloween Math Game
-
-### Design a math game that incorporates basic math skills and Fall/Halloween/Dia de los Muertos themes.
-
-### Time Estimate
-This activity should take approximately 45 minutes.
-
-### List of Materials
-- Pencils
-- Paper
-- Dice
-- Fall/Halloween/Dia de los Muertos themed worksheets
-
-### Procedure
-1. Introduce the game to the students and explain the rules.
-2. Have the students work in pairs or small groups to create their own math game.
-3. Give the students the Fall/Halloween/Dia de los Muertos themed worksheets and have them use the worksheets to create their math game.
-4. Have the students play their math game and discuss the results.
-
-### Additional Notes
-- Encourage the students to be creative and come up with their own ideas.
-- Provide examples of different types of math games that can be created.
-- Encourage the students to use the dice to add a random element to their math game.
+### Additional notes
+- Encourage students to think critically about the cultural context of Dia de los Muertos art
+- Encourage students to use their imaginations to create unique pieces of art
+- Provide additional examples of Dia de los Muertos art to inspire students' creativity
 
 ### Differentiation strategies
-- For students who need more support: Provide additional guidance and support when creating the math game.
-- For students who need more challenge: Encourage the students to come up with more complex math games.
-- For neurodivergent students: Allow the students to work independently or in a one-on-one setting with the teacher.
+- For students who need more support: provide additional examples and guidance on how to create their art
+- For students who need more challenge: provide more complex examples of Dia de los Muertos art and encourage students to use their imaginations to create unique pieces of art
+- For neurodivergent students: provide a quiet space for students to work and provide additional guidance and support as needed
 
-# Science
+## Math
 
- 
+## Fall Leaf Counting
+Students collect leaves and count them to practice place value and estimation.
+
+### Time estimate: 1 hour
+
+### Materials
+- Leaves
+- Paper
+- Pencils
+
+### Procedure
+1. Have students collect leaves from outside
+2. Have students count the leaves and record the number on paper
+3. Discuss place value and estimation with students
+
+### Additional notes
+- Ask students to compare the number of leaves they collected to the number of leaves other students collected
+- Provide examples of place value and estimation
+- Encourage students to practice counting with the leaves
+
+### Differentiation strategies
+- For students who need more support: Provide visuals and hands-on activities to help them understand place value and estimation
+- For students who need more challenge: Ask them to find the median, mode, and range of the leaves collected
+- For neurodivergent students: Provide a quiet space for them to work and give them extra time to complete the activity
+
+## Halloween Math Puzzles
+Students solve math puzzles related to Halloween themes to practice basic arithmetic.
+
+### Time estimate: 1.5-2 hours
+
+### Materials
+- pencils
+- paper
+- math puzzles with Halloween themes
+
+### Procedure
+1. Introduce the activity and explain the objectives
+2. Divide students into groups of 2-3
+3. Have each group work on one puzzle at a time
+4. Encourage students to work together to solve the puzzles
+5. Check in with each group periodically to provide assistance and guidance
+6. Allow students to share their solutions with the class
+7. Discuss the solutions and review any incorrect answers
+8. Conclude the activity by discussing the importance of math and how it relates to Halloween
+
+### Additional notes
+- Provide each group with a different math puzzle to solve
+- Encourage students to use creative thinking to solve the puzzles
+- Explain the importance of collaboration and problem-solving
+- Provide examples of real-world applications of the math concepts being used
+
+### Differentiation strategies
+- For students who need more support: provide additional guidance and support when needed
+- For students who need more challenge: provide additional puzzles with more complex math concepts
+- For neurodivergent students: provide additional time to complete the puzzles and provide verbal instruction as needed
+
+## Dia de los Muertos Math Games
+Students play math games related to Dia de los Muertos to practice basic numeracy skills.
+
+### Time estimate: 2 hours
+
+### Materials
+- pencils
+- paper
+- dice
+- math worksheets
+
+### Procedure
+1. Explain the concept of Dia de los Muertos and how it relates to math
+2. Divide the students into pairs
+3. Have each pair choose a math game to play
+4. Provide instructions and guidance as needed
+5. Allow students to play the game for 10-15 minutes
+6. Switch pairs and have them choose a different game
+7. Repeat until all students have had a chance to play each game
+
+### Additional notes
+- Questions for the math games can include: What is the sum of two numbers? What is the difference between two numbers? What is the product of two numbers?
+- Clues can include: Think about the numbers you are working with. What patterns do you see?
+- Example stories can include: Maria and her family are celebrating Dia de los Muertos. How many candles do they need to buy if each family member needs two candles?
+
+### Differentiation strategies
+- For students who need more support, provide additional guidance and assistance with the math questions.
+- For students who need more challenge, provide more difficult math questions.
+- For neurodivergent students, provide visual aids and allow them to take breaks as needed.
+
 ## Fall Nature Walk
+Students go on a nature walk to observe and discuss the changing of the season and practice basic phonics.
 
-### Students go on a nature walk and observe seasonal changes in the environment.
+### Time estimate: 2 hours
 
-### Time Estimate
-Approximately 2 hours
+### Materials
+- pencils
+- notebooks
+- nature scavenger hunt worksheet
 
-### List of Materials
-- Pencils and paper for each student
-- Digital camera or smartphone
-- Clipboards 
+### Procedure
+1. Gather the students and explain the goal of the nature walk.
+2. Discuss the changing of the season and how it affects nature.
+3. Have the students go on a nature walk and observe and discuss the changes.
+4. Back in the classroom, have the students complete a nature scavenger hunt worksheet.
+5. Discuss the answers to the worksheet and practice basic phonics.
+
+### Additional notes
+- Encourage the students to look for signs of the changing season, such as leaves changing color, animals preparing for winter, etc.
+- Suggest that the students draw pictures of what they observe.
+- When discussing the answers to the worksheet, ask questions such as 'What did you observe?' and 'What does this tell us about the changing season?'
+- Provide additional phonics practice if needed.
+
+### Differentiation strategies
+- For students who need more support: provide additional guidance and support during the nature walk, and provide a simpler version of the worksheet.
+- For students who need more challenge: provide more complex questions and activities during the nature walk, and provide a more challenging version of the worksheet.
+- For neurodivergent students: provide visual aids to help them understand the concepts, and provide a worksheet that is tailored to their needs.
+
+## Graphs in the Garden
+Students create graphs of the plants in the school garden to practice graphing skills.
+
+### Time estimate: 2 hours
+
+### Materials
+- pencils
+- paper
+- crayons
+- markers
+- chalk
+
+### Procedure
+1. Have students observe the plants in the school garden and record their observations on paper.
+2. Discuss the different types of graphs (bar, line, pie, etc.) and how they can be used to represent data.
+3. Have students create graphs of the plants in the school garden using the materials provided.
+4. Have students compare and contrast the graphs they created and discuss their findings.
+
+### Additional notes
+- Encourage students to be creative and to use different colors and shapes to represent the data.
+- Remind students to label their graphs clearly.
+- Ask students to explain their graphs to the class.
+
+### Differentiation strategies
+- For students who need more support: Provide more structure and guidance when creating the graphs.
+- For students who need more challenge: Ask students to create more complex graphs and analyze the data.
+- For neurodivergent students: Allow students to work at their own pace and provide additional breaks as needed.
+
+## Social Studies
+
+## Fall Nature Walk
+Students explore the changing of the season by going on a nature walk and observing the changes in the environment.
+
+### Time estimate: 2 hours
+
+### Materials
+- paper
+- pencils
+- clipboards
+- magnifying glasses
+
+### Procedure
+1. Have students form groups of two or three.
+2. Provide each group with paper, pencils, clipboards, and magnifying glasses.
+3. Explain the activity: Students will explore the changing of the season by going on a nature walk and observing the changes in the environment.
+4. Have students take turns leading their group on the nature walk, observing the changes in the environment and discussing what they see.
+5. Once the walk is complete, have students draw a picture of what they saw and write a short description of their experience.
+6. Have students present their drawings and descriptions to the class.
+
+### Additional notes
+- Questions to ask while on the nature walk: What colors do you see? What shapes do you see? What do you think the animals are doing? What do you think the plants are doing?
+- For students who need more support, provide a list of words to use in their descriptions, or have them draw a picture and provide a few words to describe it.
+- For students who need more challenge, encourage them to observe more closely and provide more detailed descriptions.
+- For neurodivergent students, provide a more structured activity by giving students a list of specific items to look for and observe.
+
+### Differentiation strategies
+- For students who need more support, provide a list of words to use in their descriptions, or have them draw a picture and provide a few words to describe it.
+- For students who need more challenge, encourage them to observe more closely and provide more detailed descriptions.
+- For neurodivergent students, provide a more structured activity by giving students a list of specific items to look for and observe.
+
+## Autumn Art Project
+Students create a piece of art that reflects the changing of the season, such as a collage of fall leaves.
+
+### Time estimate: 3 hours
+
+### Materials
+- Fall leaves
+- Construction paper
+- Glue
+- Scissors
+
+### Procedure
+1. Introduce the project and explain the concept of autumn.
+2. Have students collect fall leaves outside and bring them back to the classroom.
+3. Provide students with construction paper and glue.
+4. Instruct students to arrange the leaves on the construction paper and glue them down.
+5. Allow time for students to complete their projects.
+6. Have students present their projects and discuss the changing of the season.
+
+### Additional notes
+- Encourage students to think about the colors of the leaves and how they change over the season.
+- Remind students to use their scissors safely.
+- Provide examples of other autumn art projects for inspiration.
+
+### Differentiation strategies
+- For students who need more support: Provide a template of a fall leaf collage for them to follow.
+- For students who need more challenge: Encourage them to create a 3D collage with the leaves.
+- For neurodivergent students: Allow them to create their art project in a sensory-friendly environment.
+
+## Halloween Storytelling
+Students create a story together about a Halloween-related topic, such as a haunted house.
+
+### Time estimate: 2 hours
+
+### Materials
+- pencils
+- paper
+- markers
+- crayons
+
+### Procedure
+1. Introduce the lesson by discussing Halloween and the importance of storytelling.
+2. Explain the activity: Students will work together to create a story about a Halloween-related topic, such as a haunted house.
+3. Provide students with prompts and questions to help them brainstorm ideas for their story.
+4. Have students take turns adding to the story.
+5. When the story is complete, have the students draw a picture to accompany it.
+6. Have the students share their stories and pictures with the class.
+
+### Additional notes
+- Encourage students to use their imaginations and be creative in their storytelling.
+- Remind students to be respectful of each other's ideas and to listen to each other when they are sharing their stories.
+- Suggested prompts: What is the haunted house like? Who lives in the haunted house? What kind of adventures do the characters have?
+
+### Differentiation strategies
+- For students who need more support: Provide additional prompts and questions to help them brainstorm ideas for their story.
+- For students who need more challenge: Encourage them to use more descriptive language when telling their story.
+- For neurodivergent students: Allow them to work with a partner or in a small group to help them with the activity.
+
+## Dia de los Muertos Craft
+Students create a craft related to Dia de los Muertos, such as a calavera mask or a paper flower.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Scissors
+- Glue
+- Markers
+
+### Procedure
+1. Introduce students to Dia de los Muertos and discuss the significance of the holiday.
+2. Explain the project and provide examples of possible crafts.
+3. Allow students to brainstorm and create a plan for their craft.
+4. Provide materials and guide students as they create their craft.
+5. Allow time for students to share their crafts with the class.
+
+### Additional notes
+- Encourage students to think of creative ways to incorporate elements of Dia de los Muertos into their craft.
+- Remind students to use the materials responsibly and to clean up after themselves.
+- Discuss the history and cultural significance of Dia de los Muertos with the class.
+
+### Differentiation strategies
+- For students who need more support: provide them with pre-made templates or examples of crafts.
+- For students who need more challenge: provide them with more difficult materials or more complex projects.
+- For neurodivergent students: provide them with additional time or allow them to work in a quieter environment.
+
+## Fall Math Games
+Students play math games related to the season, such as counting leaves or sorting pumpkins by size.
+
+### Time estimate: 2 hours
+
+### Materials
+- Leaves
+- Pumpkins
+- Math worksheets
+- Pencils
+- Crayons
+
+### Procedure
+1. Gather students outside and explain the lesson plan
+2. Have students count the leaves in a pile
+3. Have students sort the pumpkins by size
+4. Provide math worksheets to reinforce the concepts
+5. Allow students to draw pictures of the fall season with the crayons and pencils
+
+### Additional notes
+- Encourage students to work together and discuss their answers
+- Provide additional worksheets for students who finish early
+- Provide additional math problems for students who need more challenge
+
+### Differentiation strategies
+- Provide visual aids for students who need more support
+- Allow students to work in pairs or small groups for more collaboration
+- Allow students to take breaks if they become overwhelmed
+
+## Science
+
+## Outdoor Exploration
+Go outdoors and explore the local food chain in your area. Observe and discuss the different animals and plants that make up the food chain.
+
+### Time estimate: 2 hours
+
+### Materials
 - Binoculars
 - Magnifying glasses
+- Notebooks
+- Pencils
 
 ### Procedure
-1. Introduce the activity to the students and explain the importance of outdoor education and student-led development.
-2. Ask the students to brainstorm a list of things to look for on the nature walk.
-3. Have the students divide into small groups and assign each group a specific area to explore.
-4. Provide each student with the necessary materials (pencils and paper, digital camera or smartphone, clipboard, binoculars, magnifying glass).
-5. Have the students go on the nature walk and observe the changes in the environment.
-6. Ask the students to record their observations on paper or digitally.
-7. When the nature walk is completed, have the students come back together and discuss their observations.
+1. Go outdoors and explore the local food chain in your area.
+2. Observe and discuss the different animals and plants that make up the food chain.
+3. Encourage students to take notes and draw pictures of what they observe.
+4. Ask questions about the food chain and how it works.
+5. Discuss the importance of outdoor education and student-led development.
+6. Discuss the relevance of the activity to the academic subject of science.
 
-### Additional Notes
-- Encourage the students to look for signs of the changing season, such as changes in the leaves, the temperature, and the animals.
-- Ask the students to look for evidence of human impact on the environment.
-- Have the students take pictures of the things they observe.
+### Additional notes
+- Provide examples of different animals and plants in the food chain.
+- Provide questions to help guide the discussion.
+- Provide prompts to help students think more deeply about the food chain.
 
 ### Differentiation strategies
-- For students who need more support: provide a list of things to look for on the nature walk and have them focus on a few items.
-- For students who need more challenge: have them look for more detailed observations and have them explain why they think certain things have changed.
-- For neurodivergent students: provide visual cues and a checklist of things to look for on the nature walk.
+- For students who need more support: Provide additional examples and visuals of the food chain.
+- For students who need more challenge: Ask students to draw a diagram of the food chain.
+- For neurodivergent students: Allow students to take breaks as needed and provide additional time for processing information.
 
- 
-## Pumpkin Investigation
+## Animal Scavenger Hunt
+Create a scavenger hunt that encourages students to find and identify local animals and plants in the food chain.
 
-### Students investigate the anatomy of a pumpkin and learn about the life cycle of plants.
+### Time estimate: 2 hours
 
-### Time Estimate
-1.5 hours
-
-### List of Materials
-- Pumpkins
-- Dissecting tools (knives, spoons, etc.)
-- Magnifying glasses
+### Materials
 - Paper
 - Pencils
-- Chalk
+- Clipboards
+- Scavenger Hunt Clues
 
 ### Procedure
-1. Introduce the lesson and explain the purpose of the activity.
-2. Have students observe the pumpkin and discuss what they see.
-3. Lead a discussion about the anatomy of the pumpkin, including the stem, seeds, and flesh.
-4. Give students time to explore the pumpkin with their dissecting tools.
-5. Have students draw and label the parts of the pumpkin.
-6. Discuss the life cycle of plants and how pumpkins fit into it.
-7. Have students draw a diagram of the life cycle of a plant.
+1. Explain the concept of a food chain to the students and ask them to brainstorm examples of animals and plants that are part of the food chain in their local environment.
+2. Divide the students into small groups and give each group a set of scavenger hunt clues.
+3. Have the students work together to solve the clues and find the animals and plants in the local environment.
+4. Once the students have found all the animals and plants, have them discuss how they are connected in the food chain and how they interact with each other.
+5. Have the students draw a diagram of the food chain they have discovered.
 
-### Additional Notes
-- Encourage students to ask questions and make observations throughout the activity.
-- Have students share their drawings with the class and discuss what they have learned.
+### Additional notes
+- Encourage the students to ask questions and make observations about the animals and plants they find.
+- Remind the students to respect the environment and not disturb the animals or plants they find.
+- Provide examples of food chains that the students can use as a reference.
+- Provide a list of animals and plants that the students should look for.
 
 ### Differentiation strategies
-- For students who need more support: Provide additional scaffolding and guidance throughout the activity.
-- For students who need more challenge: Have students research and present information about the anatomy of other plants.
-- For neurodivergent students: Allow students to work with a buddy or in small groups. Provide additional breaks as needed.
+- For students who need more support: provide additional scaffolding and support, such as additional guidance and hints for solving the clues.
+- For students who need more challenge: provide more difficult clues to solve, or have them create their own clues for the scavenger hunt.
+- For neurodivergent students: provide visual cues and prompts, and break down the activity into smaller steps.
 
- 
-## Halloween Storytelling
+## Food Chain Art
+Create art projects that explore the food chain. Have students draw and paint pictures of animals and plants in the food chain.
 
-### Students create a story about Halloween or Dia de los Muertos and practice phonics and literacy skills.
+### Time estimate: 2-3 hours
 
-### Time Estimate
-Approximately 45 minutes
-
-### List of Materials
-- Copies of a Halloween or Dia de los Muertos story
-- Markers
-- Pencils
+### Materials
 - Paper
+- Pencils
+- Paints
+- Paintbrushes
 
 ### Procedure
-1. Introduce the activity by explaining that the students will be creating their own stories about Halloween or Dia de los Muertos.
-2. Have the students break into small groups and read a Halloween or Dia de los Muertos story together.
-3. Ask the students to brainstorm ideas for their stories.
-4. Give the students time to write their stories.
-5. Have the students share their stories with the group.
+1. Explain the concept of a food chain to the students.
+2. Have the students brainstorm ideas for their art projects.
+3. Provide guidance and assistance as needed.
+4. Allow the students to create their art projects.
+5. Have the students present their art projects to the class.
 
-### Additional Notes
-- Encourage the students to use descriptive language and to focus on their phonics and literacy skills.
-- Ask the students to think about the structure of their stories and how they can make them interesting.
-
-### Differentiation Strategies
-- For students who need more support: Provide them with a story outline or a list of key words to help them structure their stories.
-- For students who need more challenge: Ask them to create stories with multiple characters and complex plot lines.
-- For neurodivergent students: Allow them to use visuals or audio recordings to help them create their stories.
-
- 
-## Fall Leaf Art
-
-### Students collect fallen leaves and use them to create art projects.
-
-### Time Estimate
-
-Approximately 1 hour
-
-### List of Materials
-
-- Leaves of various shapes, sizes, and colors
-- Glue
-- Construction paper
-- Scissors
-- Markers
-
-### Procedure
-
-1. Have students go outside and collect fallen leaves.
-2. Have students sort the leaves by size, shape, and color.
-3. Have students glue the leaves onto construction paper.
-4. Have students use markers to draw stems and other details on the leaves.
-5. Have students cut out their leaf art and display it.
-
-### Additional Notes
-
-- Encourage students to use their imagination and be creative.
-- Have students discuss the different shapes, sizes, and colors of the leaves they collected.
-- Have students discuss the differences between the leaves they collected and the leaves they see on trees.
+### Additional notes
+- Encourage the students to think about the relationships between animals and plants in the food chain.
+- Discuss the importance of the food chain in the environment.
+- Provide examples of food chains to the students.
 
 ### Differentiation strategies
+- For students who need more support: Provide additional guidance and assistance with the art projects.
+- For students who need more challenge: Encourage the students to think about more complex food chains.
+- For neurodivergent students: Provide additional time and support for the art projects.
 
-- For students who need more support: Provide pre-cut shapes to glue onto the paper.
-- For students who need more challenge: Have students create a 3D version of their leaf art.
-- For neurodivergent students: Allow them to take breaks as needed and provide them with a quiet space to work.
+## Food Chain Math
+Introduce basic math concepts such as counting and sorting through food chain activities. Have students count and sort animals and plants in the food chain.
+
+### Time estimate: 2 hours
+
+### Materials
+- Animal and plant pictures
+- Paper
+- Colored pencils
+- Whiteboard
+
+### Procedure
+1. Explain the concept of a food chain and introduce the activity to the students
+2. Divide the students into groups of two and provide each group with the necessary materials
+3. Have the students create a food chain by counting and sorting the animals and plants in the pictures
+4. Have the students present their food chains to the class
+5. Discuss the food chains and the math concepts used to create them
+
+### Additional notes
+- Encourage the students to ask questions and explain their thinking
+- Provide examples of food chains to help the students understand the concept
+- Provide additional materials such as books about food chains to help the students learn more about the topic
+
+### Differentiation strategies
+- For students who need more support: Provide additional guidance and support when creating the food chain
+- For students who need more challenge: Ask the students to create more complex food chains with more animals and plants
+- For neurodivergent students: Allow the students to work in a quiet area with fewer distractions
+
+## Food Chain Storytelling
+Encourage students to create stories about the food chain. Have them use phonics and literacy skills to create stories about animals and plants in the food chain.
+
+### Time estimate: 2-3 hours
+
+### Materials
+- Paper
+- Pencils
+- Colored Pencils
+- Whiteboard
+- Whiteboard Markers
+- Books about Food Chains
+
+### Procedure
+1. Introduce the concept of a food chain and explain how it works.
+2. Divide the students into small groups and provide each group with paper and pencils.
+3. Instruct the students to create a story about a food chain. Encourage them to use phonics and literacy skills to create stories about animals and plants in the food chain.
+4. Have each group present their stories to the class.
+5. Discuss the stories as a class, and talk about the different animals and plants in the food chain.
+6. Have the students draw a picture of the food chain they created.
+
+### Additional notes
+- Provide example stories for the students to use as a starting point.
+- Encourage the students to use their imaginations and be creative with their stories.
+- Provide books about food chains for the students to use for reference.
+
+### Differentiation strategies
+- For students who need more support: Provide additional examples and prompts to help them create their stories.
+- For students who need more challenge: Provide more complex stories and ask them to create more detailed stories.
+- For neurodivergent students: Allow them to work in a quiet space and provide visual aids to help them understand the concept of a food chain.

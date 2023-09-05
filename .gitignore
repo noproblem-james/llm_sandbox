@@ -3,3 +3,5 @@ env
 data/*
 .env
 *DS_Store*
+/output/backup*
+notebooks/generate_lesson_plans-backup.ipynb

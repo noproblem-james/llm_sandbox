@@ -1,605 +1,566 @@
-
 # August
-## Theme: Getting to Know One Another, Class Community
+## Theme: Getting to Know One Another; Class Community
 
-# Language Arts
+## Language Arts
 
- 
 ## Storytelling
+Students will create and share stories about themselves and their classmates.
 
-### Have students each tell a story about themselves, then have them work together to turn it into a collective story.
+### Time estimate: 2 hours
 
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
+### Materials
 - Paper
 - Pencils
-- Markers
-- Whiteboard or chalkboard
+- Colored Pencils
+- Storytelling Prompts
 
 ### Procedure
+1. Introduce the lesson and explain the activity to the students.
+2. Provide each student with paper and pencils.
+3. Give the students a few minutes to brainstorm ideas for their stories.
+4. Have the students write out their stories.
+5. Allow the students to share their stories with the class.
+6. Discuss the stories as a class and ask questions to help the students think more deeply about the stories.
 
-1. Ask students to think of a story about themselves that they would like to share with the class.
-2. Give students 10 minutes to write down their stories.
-3. Ask each student to share their story with the class.
-4. Once all the stories have been shared, ask the students to work together to create a collective story using elements from all the individual stories.
-5. Give the students 15 minutes to work together on the collective story.
-6. Ask each student to share their contribution to the collective story.
-7. Ask the students to come up with a title for the collective story.
-
-### Additional Notes
-
-- Encourage students to use vivid language and creative descriptions when telling their stories.
-- Ask the students to think of a moral or lesson that their story conveys.
-- Ask the students to think of ways to make their stories more interesting or exciting.
+### Additional notes
+- The stories should be focused on the students and their classmates.
+- Encourage the students to use descriptive language and to think about the characters and setting of their stories.
+- Provide the students with storytelling prompts if they need help getting started.
+- Encourage the students to use their imaginations and to create stories that are meaningful to them.
 
 ### Differentiation strategies
+- For students who need more support: Provide additional time to brainstorm and write their stories. Provide additional storytelling prompts to help them get started. Allow them to work with a partner to help them come up with ideas.
+- For students who need more challenge: Encourage them to use more complex language and to add more details to their stories. Ask them to think of ways to make their stories more interesting.
+- For neurodivergent students: Allow them to take breaks as needed. Provide them with visual aids or other tools to help them understand the activity. Give them the option to work with a partner or in a small group.
 
-- For students who need more support: Provide additional time for writing and sharing stories.
-- For students who need more challenge: Ask the students to come up with a collective story using elements from only two or three individual stories.
-- For neurodivergent students: Allow the students to work in pairs or small groups to come up with the collective story.
+## Word Games
+Students will play educational word games to practice literacy skills.
 
- 
-## Word Scramble
+### Time estimate: 2 hours
 
-### Create a word scramble with words related to the topic and have students unscramble them.
+### Materials
+- pencils
+- paper
+- word game materials (e.g. cards, dice, etc.)
 
-### Time Estimate
-Approximately 45 minutes
+### Procedure
+1. Introduce the lesson and explain the activity to students.
+2. Divide students into small groups and provide each group with the necessary materials.
+3. Have each group create their own word game based on the language_arts skills they are learning.
+4. Allow students to play their word games and provide help and guidance as needed.
+5. Once all groups have finished playing their games, have each group explain their game to the class and discuss the language_arts skills they practiced.
 
-### List of Materials
-- Word scramble worksheet
+### Additional notes
+- Encourage students to be creative with their word games and come up with their own rules.
+- Provide example stories, questions, clues, or prompts to help students come up with their own word games.
+
+### Differentiation strategies
+- For students who need more support: Provide more guidance and assistance when creating and playing the word games.
+- For students who need more challenge: Encourage students to come up with more complex rules for their word games.
+- For neurodivergent students: Allow students to work independently or in pairs, and provide a quiet area for students who need a break from the group activity.
+
+## Writing Prompts
+Students will use writing prompts to create personal narratives about themselves.
+
+### Time estimate: 2 hours
+
+### Materials
+- Writing prompts
+- Paper
 - Pencils
-- Erasers
 
 ### Procedure
-1. Introduce the activity by asking students to think of words related to the topic.
-2. Ask students to write down the words they have come up with.
-3. Explain the rules of the game: each student will take turns writing a word on the worksheet and then scrambling the letters.
-4. Once all the words are scrambled, students will take turns trying to unscramble the words.
-5. The first student to unscramble all the words correctly wins the game.
+1. Introduce the lesson and explain the purpose of writing prompts
+2. Provide examples of writing prompts
+3. Allow students to brainstorm ideas for their own writing prompts
+4. Instruct students to write a story using their writing prompt
+5. Allow students to share their stories with the class
+6. Discuss the stories and provide feedback to the students
 
-### Additional Notes
-- Encourage students to think of creative words related to the topic.
-- Provide hints or clues to help students unscramble the words.
-- Provide extra time for students who need it.
+### Additional notes
+- Writing prompts should be tailored to the students' interests and abilities
+- Encourage students to use descriptive language and vivid imagery
+- Provide examples of stories that use the writing prompts to help students understand the concept
 
 ### Differentiation strategies
-- For students who need more support: provide a list of words to choose from, offer hints or clues for the words, and provide extra time.
-- For students who need more challenge: ask them to come up with more words, provide more difficult words, and reduce the amount of time they have to unscramble the words.
-- For neurodivergent students: provide a list of words to choose from, offer hints or clues for the words, and provide extra time.
+- For students who need more support: provide additional examples of writing prompts and stories, and give more time for brainstorming and writing
+- For students who need more challenge: provide more complex writing prompts and encourage students to use more sophisticated language and structure
+- For neurodivergent students: provide a quiet space for students to work and allow students to work alone or in pairs instead of in a group
 
- 
-## Pictionary
+## Classroom Scavenger Hunt
+Students will explore the classroom and find items related to the theme of getting to know one another.
 
-### Divide students into teams and have them draw pictures that represent words related to the topic.
+### Time estimate: 1 hour
 
-### Time Estimate
-Approximately 30 minutes
+### Materials
+- pencils
+- paper
+- scavenger hunt cards
 
-### List of Materials
+### Procedure
+1. Introduce the activity and explain the rules
+2. Divide the class into teams of two or three students
+3. Have each team select a scavenger hunt card
+4. Allow the teams to explore the classroom and find items related to the theme of getting to know one another
+5. Have the teams write down their answers on the paper
+6. Have the teams present their answers to the class and discuss
+7. Review the answers as a class and discuss any differences or similarities
+
+### Additional notes
+- The scavenger hunt cards should include questions about each student’s favorite color, food, hobby, etc.
+- Provide a list of example items that the teams can look for in the classroom (e.g., a book with a yellow cover, a painting of a flower, etc.)
+
+### Differentiation strategies
+- For students who need more support: provide additional scaffolding and guidance when introducing the activity and when reviewing the answers
+- For students who need more challenge: provide more complex questions or tasks for the scavenger hunt
+- For neurodivergent students: provide visual supports or allow them to work with a partner
+
+## Letter Writing
+Students will write letters to each other about their personal experiences.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Writing utensils
+- Envelopes
+
+### Procedure
+1. Explain the activity to the students: they will be writing letters to each other about their personal experiences.
+2. Break the students into pairs and provide each pair with paper, writing utensils, and envelopes.
+3. Allow the students to brainstorm ideas for their letters and provide guidance as needed.
+4. Once the students have finished writing their letters, have them exchange their letters with their partner and read them aloud.
+5. Allow time for the students to discuss their letters and ask questions about each other's experiences.
+6. Close the activity by having the students reflect on what they learned from the activity.
+
+### Additional notes
+- Encourage the students to be creative and think outside the box.
+- Provide prompts to help the students get started, such as 'What did you do last weekend?' or 'What is your favorite hobby?'.
+- Remind the students to be respectful of each other's experiences and feelings.
+
+### Differentiation strategies
+- For students who need more support: provide additional prompts and guidance throughout the activity.
+- For students who need more challenge: encourage them to be creative and think of unique experiences to write about.
+- For neurodivergent students: provide additional breaks throughout the activity and allow them to work at their own pace.
+
+## Math
+
+## Friendship Math: Counting and Sorting
+Students work together to count and sort objects in the classroom, outdoors, or in a game format. This activity helps build teamwork and math skills.
+
+### Time estimate: 45 minutes
+
+### Materials
+- objects to count and sort
+- pencils and paper
+
+### Procedure
+1. Introduce the activity and explain the purpose of the activity.
+2. Provide instructions for the activity, including how to count and sort the objects.
+3. Allow the students to work together to count and sort the objects.
+4. Discuss the results of the activity and how it relates to math skills.
+5. Provide an opportunity for students to reflect on the activity and discuss any challenges they faced.
+
+### Additional notes
+- Encourage students to work together and help each other out.
+- Provide examples of counting and sorting activities that can be done outdoors or in a game format.
+- Encourage students to ask questions and provide support for any questions they have.
+- Provide support for any students who need extra help understanding the concepts.
+
+### Differentiation strategies
+- For students who need more support: provide additional examples and visuals to help them understand the concepts.
+- For students who need more challenge: provide more complex counting and sorting activities.
+- For neurodivergent students: provide alternative activities that focus on the same concepts but in a different format.
+
+## Friendship Math: Number Line
+Students work together to create a number line and label it with numbers and words. This activity helps build teamwork and math skills.
+
+### Time estimate: 1 hour
+
+### Materials
+- Number line
+- Number cards (1-10)
+- Word cards (one, two, etc.)
+
+### Procedure
+1. Divide the students into groups of two or three.
+2. Provide each group with a number line and number cards (1-10).
+3. Instruct the students to work together to label the number line with the number cards.
+4. Provide each group with word cards (one, two, etc.)
+5. Instruct the students to work together to label the number line with the word cards.
+
+### Additional notes
+- Encourage the students to discuss the numbers and words as they are labeling the number line.
+- Check in with each group to ensure they are understanding the concept.
+- Encourage the students to discuss why the number line is important and how it can help them with math.
+- Provide additional support or challenge as needed.
+
+### Differentiation strategies
+- For students who need more support: provide additional scaffolding and verbal cues as needed.
+- For students who need more challenge: provide additional challenges such as having them create their own number line or having them label the number line with fractions or decimals.
+- For neurodivergent students: provide additional time to process the instructions and allow them to work at their own pace.
+
+## Friendship Math: Measurement
+Students work together to measure different objects in the classroom or outdoors. This activity helps build teamwork and math skills.
+
+### Time estimate: 2 hours
+
+### Materials
+- Measuring tape
+- Rulers
+- Objects to measure
+
+### Procedure
+1. Explain to the students the concept of measurement and why it is important.
+2. Divide the students into teams of two or three.
+3. Give each team a measuring tape or ruler.
+4. Provide each team with objects to measure.
+5. Allow the teams to measure the objects and record their results.
+6. Discuss the results as a class and compare the measurements of the different teams.
+7. Discuss the importance of accuracy and precision when measuring.
+
+### Additional notes
+- Encourage the students to think critically and ask questions.
+- Encourage the students to work together and help each other.
+- Provide examples of different objects that can be measured, such as a pencil, a book, or a table.
+- Explain the difference between length, width, and height.
+
+### Differentiation strategies
+- For students who need more support: Provide additional guidance and assistance when measuring objects.
+- For students who need more challenge: Have the students measure more complex objects and compare the results.
+- For neurodivergent students: Allow the students to work at their own pace and provide verbal and visual cues to help them understand the concepts.
+
+## Friendship Math: Patterns
+Students work together to identify and create patterns. This activity helps build teamwork and math skills.
+
+### Time estimate: 1.5 hours
+
+### Materials
+- Pens
+- Paper
+- Colored Pencils
+- Pattern Cards
+
+### Procedure
+1. Introduce the activity to the students and explain the concept of patterns.
+2. Have students work in pairs or small groups to identify and create patterns.
+3. Encourage students to explain their patterns to each other.
+4. Provide additional prompts or questions to help students identify patterns.
+5. Have the students create their own patterns.
+6. Have the students present their patterns to the class.
+7. Discuss the patterns and ask questions to help students understand them.
+
+### Additional notes
+- Encourage students to think outside the box and explore different types of patterns (e.g., color patterns, shape patterns, number patterns, etc.).
+- Provide examples of patterns for students to use as a reference.
+- Remind students to be creative and use their imagination when creating patterns.
+
+### Differentiation strategies
+- For students who need more support: provide more structure and guidance when introducing the activity.
+- For students who need more challenge: provide additional prompts or questions to help them think more critically.
+- For neurodivergent students: provide visual aids or tactile materials to help them understand the concept of patterns.
+
+## Friendship Math: Storytelling
+Students work together to create stories using math concepts. This activity helps build teamwork and math skills.
+
+### Time estimate: 
+
+### Materials
+- 
+
+### Procedure
+
+
+### Additional notes
+- 
+
+### Differentiation strategies
+- 
+
+## Social Studies
+
+## Getting to Know One Another Through Art
+Students will create a piece of art that describes something about themselves that they would like their classmates to know.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Pencils
+- Crayons
+- Markers
+- Paint
+
+### Procedure
+1. Introduce the lesson and explain the goal: to create a piece of art that describes something about themselves that they would like their classmates to know.
+2. Explain that the art can be anything from a drawing to a painting to a sculpture.
+3. Give students time to brainstorm ideas and create their artwork.
+4. Once finished, have students share their artwork with the class and explain what it means to them.
+
+### Additional notes
+- Encourage students to be creative and think outside the box.
+- Remind students that the artwork does not have to be perfect, but should express their feelings and ideas.
+- Provide examples of artwork that other students have created in the past.
+
+### Differentiation strategies
+- For students who need more support: provide a list of ideas for artwork and encourage them to choose one to create.
+- For students who need more challenge: provide a more complex project, such as creating a series of artwork that tells a story.
+- For neurodivergent students: provide visual instructions and allow them to work at their own pace.
+
+## Classroom Community Scavenger Hunt
+Students will work together in teams to complete a scavenger hunt around the classroom to find objects that represent the classroom community.
+
+### Time estimate: 2 hours
+
+### Materials
+- Scavenger hunt list
+- Paper and pencils for each student
+
+### Procedure
+1. Explain the concept of a classroom community and how it is important to the microschool
+2. Divide the students into teams of two or three
+3. Provide each team with a scavenger hunt list and paper and pencils
+4. Explain that each team must find all of the items on the list and write down a brief description of each item
+5. Allow the teams to explore the classroom and find the items on the list
+6. When all teams have found all the items on the list, have each team explain what each item represents in terms of the classroom community
+
+### Additional notes
+- The scavenger hunt list should include items that represent the classroom community, such as a book that represents diversity, a desk that represents collaboration, or a plant that represents growth
+- Encourage the teams to discuss why each item is an important part of the classroom community
+- Encourage the teams to be creative in their descriptions of the items
+
+### Differentiation strategies
+- For students who need more support: provide additional guidance and support during the scavenger hunt, and allow them to work with a partner if needed
+- For students who need more challenge: provide more complex items to find on the scavenger hunt list, and encourage them to come up with more detailed descriptions of the items
+- For neurodivergent students: provide a clear structure for the scavenger hunt and allow them to work at their own pace
+
+## Classroom Community Storytelling
+Students will work together to create a story that reflects the classroom community.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Pencils
+- Colored Pencils
+
+### Procedure
+1. Introduce the lesson and explain the purpose of the activity.
+2. Divide the students into groups of 3-4.
+3. Have each group brainstorm ideas for their story.
+4. Have each group write their story.
+5. Have each group share their story with the class.
+6. Discuss the stories and how they reflect the classroom community.
+
+### Additional notes
+- Encourage students to think about the values of the classroom community when creating their stories.
+- Encourage students to think about the different perspectives of their classmates when creating their stories.
+- Encourage students to think about how their stories can reflect the values of the classroom community.
+
+### Differentiation strategies
+- For students who need more support: Provide sentence starters or story prompts to help them get started.
+- For students who need more challenge: Encourage them to use more descriptive words and/or to create a longer story.
+- For neurodivergent students: Allow them to work independently or with a partner, and provide a quiet space for them to work if needed.
+
+## Classroom Community Math
+Students will work together to solve math problems that relate to the classroom community.
+
+### Time estimate: 2 hours
+
+### Materials
+- pencils
+- paper
+- erasers
+- whiteboard markers
+- whiteboard eraser
+
+### Procedure
+1. Introduce the lesson by discussing the importance of community and how math can help us understand our community better.
+2. Divide the students into small groups and give each group a set of math problems related to the classroom community.
+3. Encourage the students to work together to solve the problems.
+4. Have each group present their solutions to the class.
+5. Discuss the solutions as a class and ask questions to reinforce understanding.
+
+### Additional notes
+- The math problems should be age-appropriate and should focus on topics such as counting, addition, subtraction, shapes, etc.
+- The questions should be open-ended to allow for creativity and critical thinking.
+
+### Differentiation strategies
+- For students who need more support, provide more concrete examples and scaffolding.
+- For students who need more challenge, provide more abstract problems and encourage them to come up with their own solutions.
+- For neurodivergent students, provide visual aids and allow for alternative methods of communication.
+
+## Classroom Community Phonics
+Students will work together to practice phonics skills by creating words related to the classroom community.
+
+### Time estimate: 1 hour
+
+### Materials
 - Paper
 - Pencils
 - Whiteboard
-- Dry erase markers
-
-### Procedure
-1. Divide the students into teams of two or three.
-2. Give each team a list of words related to the topic.
-3. Give each team a piece of paper and pencils.
-4. Explain to the students that they will have to draw a picture that represents each word on the list.
-5. Give each team 10 minutes to draw their pictures.
-6. Have each team present their pictures to the class.
-7. Ask the class to guess the word associated with each picture.
-
-### Additional Notes
-- Encourage the students to be creative and think outside the box when drawing their pictures.
-- If the students are having difficulty understanding the words, provide them with definitions or examples.
-
-### Differentiation strategies
-- For students who need more support: Provide additional time for the students to draw their pictures.
-- For students who need more challenge: Give the students a longer list of words to draw.
-- For neurodivergent students: Allow the students to draw their pictures on a whiteboard instead of paper.
-
- 
-## Storytelling Game
-
-### Have students take turns adding to a story, each building on the previous student's contribution.
-
-### Time Estimate
-
-Approximately 45 minutes.
-
-### List of Materials
-
-- Pencils and paper
-- Whiteboard or chalkboard
-
-### Procedure
-
-1. Begin by introducing the concept of storytelling. Ask the students what they know about stories and what they think makes a good story.
-2. Explain the game: each student will take turns adding to the story, and each contribution should build on the previous student's contribution.
-3. Have the students come up with a topic for the story.
-4. Ask the first student to begin the story.
-5. Have the other students take turns adding to the story.
-6. Encourage the students to use their imaginations and think outside the box.
-7. Once the story is complete, ask the students to reflect on the story and discuss what they liked about it.
-
-### Additional Notes
-
-- Encourage the students to use descriptive language and to think of interesting characters and plot twists.
-- Ask the students to think of ways to make the story more interesting and exciting.
-- Remind the students to think of how their contribution will affect the story and the other characters.
-
-### Differentiation strategies
-
-- For students who need more support: provide sentence starters or prompts to help them get started.
-- For students who need more challenge: ask them to come up with more complex plot twists and characters.
-- For neurodivergent students: provide visuals or other tools to help them understand the concept of storytelling and the game.
-
-# Math
-
- 
-## Friendship Math: Counting and Sorting Scavenger Hunt
-
-### Go on a scavenger hunt to find items that can be counted and sorted by the students.
-
-### Time Estimate
-
-Approximately 45 minutes.
-
-### List of Materials
-
-- Outdoor space
-- Items to count and sort (e.g., rocks, leaves, sticks, etc.)
-
-### Procedure
-
-1. Explain to the students that they will be going on a scavenger hunt to find items that can be counted and sorted.
-2. Take the students outside and have them explore the outdoor space to find items that can be counted and sorted.
-3. Once they have found items, have them count and sort the items.
-4. After the students have finished counting and sorting, discuss the items they found and how they sorted them.
-
-### Additional Notes
-
-- If possible, provide the students with a basket or bag to collect the items they find.
-- Encourage the students to think of creative ways to sort the items they find.
-
-### Differentiation strategies
-
-- For students who need more support: Provide a list of items to find and have the students focus on counting and sorting those items.
-- For students who need more challenge: Have the students come up with their own sorting criteria and explain why they chose that criteria.
-- For neurodivergent students: Provide a quiet space for the students to take a break if they need it.
-
- 
-## Friendship Math: Counting and Sorting Art Project
-
-### Create a collaborative art project that involves counting and sorting shapes and colors.
-
-### Time Estimate
-This activity should take approximately 45 minutes to complete.
-
-### List of Materials
-- Assorted shapes and colors of construction paper
-- Scissors
-- Glue
 - Markers
-- Chalk
 
 ### Procedure
-1. Begin the activity by introducing the concept of friendship math. Explain that students will be creating a collaborative art project that involves counting and sorting shapes and colors. 
-2. Have students work together to decide what shapes and colors they would like to use for the project. 
-3. Give each student a piece of construction paper and have them cut out the shapes they have chosen.
-4. Once all the shapes have been cut out, have students count and sort their shapes by color.
-5. Once the shapes have been sorted, have students use the chalk to draw a large circle on the ground.
-6. Have students work together to arrange their shapes in the circle.
-7. Once the shapes have been arranged, have students glue them down to secure them.
-8. Finally, have students use the markers to decorate the shapes.
+1. Introduce the lesson and explain the objectives.
+2. Have students brainstorm words related to the classroom community.
+3. Have students work in small groups to create a list of words.
+4. Have each group share their list with the class.
+5. Have students practice their phonics skills by sounding out the words.
+6. Have students create sentences with the words they created.
+7. Have students share their sentences with the class.
+8. Discuss the importance of the classroom community and how it relates to the academic subject of social studies.
 
-### Additional Notes
-- Encourage students to be creative and use their imaginations when creating the shapes and colors.
-- Remind students to take their time and be careful when cutting out the shapes.
-- Ask students to count out loud as they sort their shapes.
+### Additional notes
+- Encourage students to use descriptive words and to think of creative ways to use the words they create.
+- Provide examples of sentences for students who need extra support.
+- Provide additional challenges for students who need more of a challenge.
+- Provide modifications for neurodivergent students, such as allowing them to work independently or with a partner.
 
 ### Differentiation strategies
-- For students who need more support, provide pre-cut shapes for them to sort and arrange.
-- For students who need more challenge, ask them to create more complex shapes and patterns.
-- For neurodivergent students, provide visual cues and reminders throughout the activity.
+- For students who need more support: provide additional examples and allow for extra time.
+- For students who need more challenge: provide more difficult words and have them create longer sentences.
+- For neurodivergent students: provide modifications such as allowing them to work independently or with a partner, and provide them with additional time if necessary.
 
- 
+## Science
 
-## Friendship Math: Counting and Sorting Storytelling
-
-### Create a story that involves counting and sorting objects and characters.
-
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Storytelling props (e.g. stuffed animals, toy cars, etc.)
-- Counting materials (e.g. counters, coins, etc.)
-- Writing materials (e.g. paper, pencils, etc.)
-- Sorting materials (e.g. sorting trays, sorting cards, etc.)
-
-### Procedure
-
-1. Introduce the activity to the students by explaining the concept of counting and sorting and how it can be used to create a story.
-2. Ask the students to brainstorm ideas for a story that involves counting and sorting.
-3. Provide the students with the materials they will need to create their stories (e.g. storytelling props, counting materials, writing materials, sorting materials).
-4. Have the students create their stories by counting and sorting the materials.
-5. Once the stories are complete, have the students share their stories with the class.
-
-### Additional Notes
-
-- Encourage the students to be creative with their stories and to think of different ways to use the materials.
-- Provide examples of stories that involve counting and sorting to help the students get started.
-
-### Differentiation strategies
-
-- For students who need more support: provide additional guidance and scaffolding when introducing the activity and when creating the stories.
-- For students who need more challenge: encourage the students to use more complex counting and sorting techniques.
-- For neurodivergent students: provide visual cues and prompts to help them understand and complete the activity.
-
- 
-## Friendship Math: Counting and Sorting Game
-
-### Play a game that involves counting and sorting objects and characters.
-
-### Time Estimate
-
-Approximately 30 minutes
-
-### List of Materials
-
-- Objects or characters to count and sort, such as paper cutouts, Lego pieces, or cards
-- Pen and paper for each student
-
-### Procedure
-
-1. Explain the game: each student will count and sort the objects/characters into groups.
-2. Give each student a set of objects/characters and a pen and paper.
-3. Allow the students time to count and sort their objects/characters.
-4. When the students have finished counting and sorting, have them share their results with the class.
-5. Discuss the results and any patterns they noticed.
-
-### Additional Notes
-
-- Encourage the students to talk about the objects/characters they counted and sorted.
-- Have the students explain their sorting methods to the class.
-- Ask the students to explain why they chose to group the objects/characters the way they did.
-
-### Differentiation Strategies
-
-- For students who need more support: provide fewer objects/characters and/or provide more guidance in the sorting process.
-- For students who need more challenge: provide more objects/characters and/or allow them to create their own sorting methods.
-- For neurodivergent students: provide visual cues to help with counting and sorting, such as color-coded objects/characters.
-
-# Social Studies
-
- 
-## Classroom Mural
-
-### Create a mural that represents the classroom community.
-
-### Time Estimate
-
-This activity should take about 1 hour.
-
-### List of Materials
-
-- Paint
-- Paintbrushes
-- Canvas
-- Markers
-- Stencils
-- Glitter
-- Glue
-- Scissors
-
-### Procedure
-
-1. Introduce the activity to the students, and explain that they will be creating a mural that represents the classroom community.
-2. Ask the students to brainstorm ideas for the mural. Encourage them to think of symbols, colors, and shapes that represent the classroom.
-3. Divide the students into small groups and assign each group a section of the mural to work on.
-4. Provide the students with the materials they need to create their section of the mural.
-5. Encourage the students to collaborate and share ideas with each other.
-6. Once the mural is complete, have the students display it in the classroom.
-
-### Additional Notes
-
-- To help the students brainstorm ideas for the mural, you can provide them with examples of murals from other classrooms or art galleries.
-- If the students are having trouble deciding on a design, you can provide them with stencils or templates to use.
-- To help the students stay focused, you can give them a time limit for each step of the activity.
-
-### Differentiation strategies
-
-- For students who need more support: Provide them with a list of ideas for the mural, and encourage them to work with a partner.
-- For students who need more challenge: Ask them to come up with their own ideas for the mural, and encourage them to use more complex shapes and colors.
-- For neurodivergent students: Allow them to work independently, and provide them with a quiet space if needed.
-
- 
-## Classroom Scavenger Hunt
-
-### Create a scavenger hunt that explores the classroom and its contents.
-
-### Time Estimate
-
-Approximately 45 minutes.
-
-### List of Materials
-
-- Pencils
-- Paper
-- Scavenger Hunt Worksheet
-
-### Procedure
-
-1. Introduce the activity to the students by explaining that they will be exploring the classroom and its contents.
-2. Hand out the Scavenger Hunt Worksheet and explain the instructions.
-3. Allow the students to explore the classroom and complete the scavenger hunt.
-4. When the students have completed the scavenger hunt, review the answers as a class.
-
-### Additional Notes
-
-- Encourage the students to think creatively, and to look for items that may not be obvious.
-- Encourage the students to work together and share ideas.
-
-### Differentiation Strategies
-
-- For students who need more support: Provide additional guidance and support during the scavenger hunt, and allow them to take breaks if needed.
-- For students who need more challenge: Ask the students to come up with additional items to add to the scavenger hunt.
-- For neurodivergent students: Provide additional visual cues to help the student understand the instructions. Allow the student to take breaks if needed.
-
- 
-## Classroom Storytelling
-
-### Create a story together as a class that reflects the classroom community.
-
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Pen and paper for each student
-- Whiteboard or chalkboard
-- Markers or chalk
-
-### Procedure
-
-1. Ask the students to brainstorm ideas for a story that reflects the classroom community.
-2. Encourage the students to draw pictures of their ideas and share them with the class.
-3. Once the students have brainstormed ideas, have them work together to create a story that incorporates all of their ideas.
-4. Have each student write a sentence of the story on a piece of paper.
-5. Have the students take turns reading their sentences aloud and adding them to the story.
-6. Once the story is complete, have the students draw a picture of the story and share it with the class.
-
-### Additional Notes
-
-- Encourage the students to use descriptive language and vivid imagery when writing their sentences.
-- Ask the students to think of ways to make the story more interesting, such as adding characters or a plot twist.
-
-### Differentiation strategies
-
-- For students who need more support: provide sentence starters or sentence frames to help them write their sentences.
-- For students who need more challenge: encourage them to use more complex language and to add more detail to the story.
-- For neurodivergent students: provide visual supports (e.g. pictures, diagrams) to help them understand the story and to write their sentences.
-
- 
-## Classroom Interviews
-
-### Interview each other to learn more about each other and the classroom community.
-
-### Time Estimate
-
-This activity should take approximately 30 minutes.
-
-### List of Materials
-
-- Pencils
-- Paper
-- Interview questions (see below)
-
-### Procedure
-
-1. Introduce the activity to the students. Explain that they will be interviewing each other to learn more about each other and the classroom community.
-
-2. Divide the students into pairs.
-
-3. Give each student a pencil and a piece of paper.
-
-4. Provide each student with a set of interview questions (see below).
-
-5. Instruct each student to take turns asking and answering the questions.
-
-6. After the interviews are complete, have the students share some of the interesting things they learned about each other with the whole class.
-
-### Interview Questions
-
-- What is your favorite subject in school?
-- What do you like to do when you are not in school?
-- What is your favorite thing about our classroom?
-- What do you think we could do to make our classroom even better?
-- What do you think is the most important thing to remember when working together as a class?
-
-### Additional Notes
-
-- Encourage students to ask follow-up questions based on their partner's answers.
-- Remind students to be respectful and kind when asking and answering questions.
-- Ask students to provide examples to further explain their answers.
-
-### Differentiation strategies
-
-- For students who need more support: Provide a list of questions for them to ask their partner.
-- For students who need more challenge: Ask them to come up with their own questions to ask their partner.
-- For neurodivergent students: Allow them to take breaks as needed and provide them with a quiet space to work.
-
-# Science
-
- 
 ## Nature Walk
+Go on a walk around the school grounds and local area to explore the local ecosystems and observe the different plants and animals that live there.
 
-### Take the students on a nature walk to explore the local environment and ecosystems. Have them observe and record the different plants and animals they see.
+### Time estimate: 2 hours
 
-### Time Estimate
-
-The activity should take approximately 1.5 hours.
-
-### List of Materials
-
+### Materials
+- Magnifying glasses
 - Notebooks
 - Pencils
+- Clipboards
+
+### Procedure
+1. Explain the purpose of the activity and the expectations for the students.
+2. Divide the students into small groups and assign each group a specific area to explore.
+3. Provide each group with magnifying glasses, notebooks, pencils, and clipboards.
+4. Have the students observe and record their findings in their notebooks.
+5. Allow the students to share their findings with the class.
+6. Discuss the findings as a class and draw conclusions about the local ecosystems.
+
+### Additional notes
+- Encourage the students to ask questions and make observations about the plants and animals they encounter.
+- Provide students with a list of questions to guide their exploration (e.g., What colors do you see? What shapes do you see? How do the plants and animals interact with each other?).
+- Encourage students to draw pictures of their observations in their notebooks.
+
+### Differentiation strategies
+- For students who need more support: provide them with more guidance and structure when exploring the area.
+- For students who need more challenge: provide them with more open-ended questions and allow them to explore the area more independently.
+- For neurodivergent students: provide them with visual supports and allow them to explore the area at their own pace.
+
+## Nature Scavenger Hunt
+Create a scavenger hunt around the school grounds and local area to find different plants and animals and identify them.
+
+### Time estimate: 2-3 hours
+
+### Materials
+- Paper
+- Pencils
+- Scavenger Hunt List
+- Magnifying Glasses (optional)
+
+### Procedure
+1. Explain the activity to the students and provide the list of items to find.
+2. Divide the students into groups of two or three.
+3. Allow the students to explore the school grounds and local area to find the items on the list.
+4. Encourage the students to use the magnifying glasses to observe the details of the plants and animals.
+5. Once the students have found all the items on the list, have them discuss their findings and identify the plants and animals.
+
+### Additional notes
+- Provide example stories or prompts to help the students think about the plants and animals they find.
+- Encourage the students to think about the environment and how their actions can impact it.
+
+### Differentiation strategies
+- For students who need more support: Provide more guidance and support during the activity, and provide a simplified list of items to find.
+- For students who need more challenge: Provide more difficult items to find, and encourage the students to think critically about their findings.
+- For neurodivergent students: Provide a visual list of items to find, and allow the students to take breaks as needed.
+
+## Nature Art
+Create art projects using natural materials found around the school grounds and local area.
+
+### Time estimate: 2 hours
+
+### Materials
+- Natural materials found around the school grounds and local area
+- Paper
+- Pencils
+- Crayons
+
+### Procedure
+1. Explain to the students the purpose of the activity and the materials they will need.
+2. Have the students explore the school grounds and local area to find natural materials for their art projects.
+3. Provide guidance and support as the students create their art projects.
+4. Have the students present their art projects to the class and explain their creative process.
+
+### Additional notes
+- Encourage the students to think of creative ways to use the natural materials they find.
+- Remind the students to be respectful of the environment when collecting materials.
+- Provide examples of art projects to help the students brainstorm ideas.
+
+### Differentiation strategies
+- For students who need more support: provide more guidance and support as they create their art projects.
+- For students who need more challenge: encourage them to be more creative with their art projects.
+- For neurodivergent students: provide more time for them to complete the activity and provide additional guidance and support as needed.
+
+## Nature Journaling
+Create a nature journal to document the observations made while exploring the school grounds and local area.
+
+### Time estimate: 2-3 hours
+
+### Materials
+- Nature journal
+- Pencils
+- Colored pencils
 - Magnifying glasses
-- Binoculars
 
 ### Procedure
+1. Introduce the activity and the concept of nature journaling
+2. Explain the importance of documenting observations
+3. Discuss the different types of observations that can be made (e.g. sights, sounds, smells, textures)
+4. Divide students into groups and have them explore the school grounds and local area
+5. Encourage students to make observations and record them in their nature journals
+6. Review the observations made and discuss the importance of documenting them
 
-1. Introduce the activity by discussing the importance of outdoor education and student-led development.
-2. Explain the objectives of the activity: to explore the local environment and ecosystems, observe and record the different plants and animals they see.
-3. Have the students split into small groups and assign each group a notebook and pencil.
-4. Give each group a magnifying glass and binoculars.
-5. Have the students explore the local environment and observe and record the different plants and animals they see.
-6. After the activity, have the students come back together and discuss their findings.
-
-### Additional Notes
-
-- Encourage the students to make detailed observations and ask questions about the plants and animals they encounter.
-- Have the students take turns leading the group and making observations.
+### Additional notes
+- Encourage students to be creative in their observations and descriptions
+- Provide prompts for students to help them think of things to observe and record (e.g. What did you see? What did you hear? How did it smell? What did it feel like?)
+- Provide examples of observations and descriptions to help students understand what is expected of them
 
 ### Differentiation strategies
+- For students who need more support: Provide additional prompts and examples of observations and descriptions
+- For students who need more challenge: Encourage students to use more descriptive language and to include more details in their observations and descriptions
+- For neurodivergent students: Allow students to work independently or in small groups and provide additional time to complete the activity
 
-For students who need more support:
-- Provide additional guidance and support as needed.
-- Allow for more time to explore the environment.
+## Nature Storytelling
+Create stories using the observations made while exploring the school grounds and local area.
 
-For students who need more challenge:
-- Ask the students to make more detailed observations and ask more in-depth questions.
-- Ask the students to identify the plants and animals they encounter.
+### Time estimate: 2 hours
 
-For neurodivergent students:
-- Allow the students to explore the environment at their own pace.
-- Provide additional breaks as needed.
-
- 
-## Classroom Ecosystems
-
-### Create a classroom ecosystem in a jar or terrarium. Have the students observe and record the changes in the environment over time.
-
-### Time Estimate
-
-This activity should take approximately 1-2 hours.
-
-### List of Materials
-
-- Jar or terrarium
-- Soil
-- Rocks
-- Plants
-- Insects (optional)
-- Water
-- Magnifying glass
-- Pen/pencil
+### Materials
 - Paper
-
-### Procedure
-
-1. Have students brainstorm what they think a classroom ecosystem is and what it might look like.
-2. Explain that a classroom ecosystem is a self-contained environment in which living things interact with each other and with their surroundings.
-3. Have students create their own classroom ecosystems in a jar or terrarium.
-4. Have students add soil, rocks, plants, insects (optional), and water to their jars or terrariums.
-5. Have students observe their classroom ecosystems over time and record any changes they notice in a journal.
-6. Have students use a magnifying glass to observe the changes in their classroom ecosystems more closely.
-7. Have students discuss their observations and any changes they noticed in their classroom ecosystems.
-
-### Additional Notes
-
-- Encourage students to use their imaginations when creating their classroom ecosystems.
-- Remind students to be gentle with their classroom ecosystems and to handle them with care.
-- Ask students to think about how the different elements of their classroom ecosystems interact with each other.
-
-### Differentiation strategies
-
-- For students who need more support: Provide additional guidance and support when creating their classroom ecosystems.
-- For students who need more challenge: Ask students to research the different elements of their classroom ecosystems and explain how they interact with each other.
-- For neurodivergent students: Allow students to work with a partner or in a small group to create their classroom ecosystems.
-
- 
-## Storytelling
-
-### Have the students create stories about the environment and ecosystems they have observed. This can be done orally or in written form.
-
-### Time Estimate
-
-Approximately 1 hour
-
-### List of Materials
-
 - Pencils
-- Paper
-- Art supplies (optional)
+- Colored Pencils
+- Camera (optional)
 
 ### Procedure
+1. Take the students on a nature walk around the school grounds and local area
+2. Have students observe and take notes on their surroundings
+3. When they return to the classroom, have them use their notes to create stories about their observations
+4. Encourage students to use their imaginations and be creative
+5. Have students share their stories with the class
 
-1. Introduce the lesson by discussing the importance of storytelling and its connection to science.
-2. Ask the students to brainstorm ideas for stories about the environment and ecosystems they have observed.
-3. Have the students create stories in either oral or written form.
-4. Encourage the students to share their stories with the class.
-
-### Additional Notes
-
-- Ask the students to think of stories that have a beginning, middle, and end.
-- Remind the students that stories can be fiction or non-fiction.
-- Encourage the students to use their imaginations to create stories that are interesting and engaging.
-
-### Differentiation strategies
-
-- For students who need more support: provide a list of topics for the students to choose from.
-- For students who need more challenge: ask the students to create stories that include scientific facts.
-- For neurodivergent students: provide a quiet space for the students to work on their stories.
-
- 
-## Classroom Garden
-
-### Have the students create a garden in the classroom. Have them observe and record the growth of the plants and the changes in the environment.
-
-### Time Estimate
-
-The activity should take approximately 2-3 hours.
-
-### List of Materials
-
-- Soil
-- Seeds
-- Planting containers (pots, trays, etc.)
-- Water
-- Gardening tools (trowels, spades, etc.)
-- Markers or labels
-- Chart paper
-- Pencils
-
-### Procedure
-
-1. Have the students choose the plants they want to grow in their garden.
-2. Help the students prepare the soil and fill the containers with soil.
-3. Have the students plant the seeds in the containers.
-4. Have the students label each container with the name of the plant.
-5. Have the students water the plants and place the containers in a sunny area.
-6. Have the students observe the plants and record their observations on chart paper.
-7. Have the students continue to observe and record the growth of the plants and the changes in the environment.
-
-### Additional Notes
-
-- Encourage the students to ask questions and discuss their observations.
-- Have the students draw pictures of the plants or take photographs of the plants as they grow.
-- Have the students take care of the plants by watering them and removing weeds.
+### Additional notes
+- Encourage students to use descriptive language and vivid imagery in their stories
+- Provide example stories to help students get started
+- Provide questions to help students think about their observations and generate ideas
+- Provide prompts to help students create their stories
 
 ### Differentiation strategies
-
-- For students who need more support: Provide extra guidance and assistance with the planting process.
-- For students who need more challenge: Have the students research the plants they are growing and create a presentation about them.
-- For neurodivergent students: Provide visual cues and prompts to help guide the students through the activity.
+- For students who need more support: provide additional examples and prompts, and encourage them to work with a partner or in a small group
+- For students who need more challenge: provide open-ended questions and prompts, and encourage them to explore more complex ideas and concepts
+- For neurodivergent students: provide a quiet space for them to work, and provide additional support and guidance as needed

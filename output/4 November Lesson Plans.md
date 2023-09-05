@@ -1,605 +1,547 @@
-
 # November
 ## Theme: Gratitude; Native Americans
 
 # Language Arts
 
- 
-## Gratitude Art Project
+## Gratitude Tree
+Students create a tree with leaves of different colors to represent different things they are thankful for.
 
-### Create a unique art project that expresses gratitude, such as a collage or mural, using materials related to Native Americans.
+### Time estimate: 1 hour
 
-### Time Estimate
-
-Approximately 60 minutes.
-
-### List of Materials
-
+### Materials
 - Construction paper
-- Glue
 - Scissors
+- Glue
 - Markers
-- Pencils
-- Magazines or other sources of images related to Native Americans
 
 ### Procedure
+1. Explain the concept of gratitude to the students and why it is important.
+2. Have the students brainstorm things they are thankful for.
+3. Have the students cut out leaves of different colors to represent the things they are thankful for.
+4. Have the students glue the leaves onto a tree shape.
+5. Have the students write the things they are thankful for on the leaves.
 
-1. Introduce the project and explain the concept of gratitude.
-2. Brainstorm ideas for art projects that could express gratitude.
-3. Have students decide on a project and gather materials.
-4. Have students create their project.
-5. Have students present their projects and explain how it expresses gratitude.
-
-### Additional Notes
-
-- Encourage students to think of creative ways to use the materials they have gathered.
-- Explain to students that they can use images of Native Americans to represent the concept of gratitude.
-- Provide examples of art projects that could express gratitude.
+### Additional notes
+- Encourage the students to think of things they are thankful for that are not material items, such as family, friends, and experiences.
+- Remind the students to be creative with their leaves and to think of different shapes and sizes.
 
 ### Differentiation strategies
+- For students who need more support: Provide a list of things to be thankful for and have the students choose from the list.
+- For students who need more challenge: Have the students create a 3D tree with the leaves.
+- For neurodivergent students: Allow the students to work with a partner or in a small group to complete the activity.
 
-- For students who need more support: provide them with more guidance and structure when brainstorming ideas for the art project.
-- For students who need more challenge: encourage them to think of more creative ways to use the materials they have gathered.
-- For neurodivergent students: provide them with additional time to complete the project and allow them to work at their own pace.
+## Native American Storytelling
+Students listen to and discuss stories from Native American cultures.
 
- 
-## Gratitude Storytelling
+### Time estimate: 2 hours
 
-### Have each student create a story about a Native American character expressing gratitude for something in their life.
-
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Pencils
-- Paper
-- Native American-themed art supplies (optional)
+### Materials
+- Native American stories
+- Writing materials
+- Outdoor materials (optional)
 
 ### Procedure
+1. Introduce the lesson and explain the importance of Native American storytelling
+2. Read a Native American story aloud
+3. Discuss the story and its themes
+4. Have students write their own stories based on the themes of the story
+5. Optional: Take the students outdoors to explore the environment and discuss the story further
 
-1. Introduce the lesson by discussing the concept of gratitude and how it is expressed in different cultures.
-2. Ask the students to brainstorm different things that they are grateful for.
-3. Explain that they will be creating a story about a Native American character expressing gratitude for something in their life.
-4. Give the students time to brainstorm ideas for their stories.
-5. Ask the students to write their stories.
-6. Give the students time to draw pictures to accompany their stories, if desired.
-7. Have the students share their stories with the class.
-
-### Additional Notes
-
-- Encourage the students to be creative and to think outside the box when creating their stories.
-- Provide examples of stories to help the students get started, if needed.
-
-### Differentiation Strategies
-
-- For students who need more support: provide sentence starters and additional scaffolding as needed.
-- For students who need more challenge: encourage them to add more detail to their stories and to use more complex language.
-- For neurodivergent students: provide additional time, breaks, and/or a quieter environment as needed.
-
- 
-## Gratitude Word Search
-
-### Create a word search with words related to gratitude and Native Americans that students can complete.
-
-### Time Estimate
-
-Approximately 30 minutes
-
-### List of Materials
-
-- Word search template
-- Pencils
-- Word list
-
-### Procedure
-
-1. Introduce the concept of gratitude and its importance to the students.
-2. Explain the concept of a word search and how it works.
-3. Hand out the word search template and pencils.
-4. Provide the students with the word list and explain that it contains words related to gratitude and Native Americans.
-5. Instruct the students to find and circle all the words on the list in the word search.
-
-### Additional Notes
-
-- Encourage the students to talk about the words they find and why they are related to gratitude and Native Americans.
-- Ask the students to explain the meaning of the words they find in the word search.
-
-### Differentiation Strategies
-
-- For students who need more support: Provide a smaller word list with fewer words.
-- For students who need more challenge: Provide a larger word list with more words.
-- For neurodivergent students: Provide a visual list of the words to help them find them more easily.
-
- 
-## Gratitude Poem
-
-### Have students write a poem about gratitude using words related to Native Americans.
-
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Pen/pencil
-- Paper
-- List of words related to Native Americans
-
-### Procedure
-
-1. Introduce the concept of gratitude and why it is important. 
-2. Discuss the importance of Native Americans and their culture.
-3. Ask students to brainstorm words related to Native Americans.
-4. Discuss the structure of a poem and how to use words to create a poem.
-5. Provide students with the list of words related to Native Americans.
-6. Ask students to create a poem about gratitude using the words related to Native Americans.
-7. Ask students to read their poems aloud to the class.
-
-### Additional Notes
-
-- Encourage students to be creative with their poems.
-- Ask students to explain why they chose certain words in their poem.
-- Ask students to explain how their poem expresses gratitude.
+### Additional notes
+- Encourage students to use descriptive language and vivid imagery in their stories
+- Encourage students to think about the moral of the story and how it applies to their own lives
 
 ### Differentiation strategies
+- For students who need more support: Provide sentence starters and scaffolding for writing stories
+- For students who need more challenge: Encourage students to use more complex language and to explore the story's themes in greater depth
+- For neurodivergent students: Provide visual aids to help them understand the story and its themes
 
-- For students who need more support: Provide students with a template for their poem.
-- For students who need more challenge: Ask students to create a poem with a specific rhyme scheme.
-- For neurodivergent students: Provide students with a visual representation of the poem structure.
+## Gratitude Writing
+Students write stories or poems about things they are thankful for.
+
+### Time estimate: 1 hour
+
+### Materials
+- Paper
+- Pencils
+- Colored Pencils
+
+### Procedure
+1. Introduce the concept of gratitude and why it is important.
+2. Brainstorm a list of things that the students are thankful for.
+3. Have the students write stories or poems about the things they are thankful for.
+4. Have the students share their stories or poems with the class.
+
+### Additional notes
+- Encourage the students to use descriptive language and vivid imagery in their stories or poems.
+- Remind the students to use proper grammar and punctuation.
+
+### Differentiation strategies
+- For students who need more support: Provide a list of topics for the students to choose from.
+- For students who need more challenge: Encourage the students to use more complex language and structure in their stories or poems.
+- For neurodivergent students: Allow the students to use alternative methods of expressing their gratitude, such as drawing or creating a collage.
+
+## Native American Art
+Students create art inspired by Native American cultures.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Pencils
+- Colored Pencils
+- Native American Art Examples
+
+### Procedure
+1. Introduce the lesson by discussing the history and culture of Native American art.
+2. Provide examples of Native American art and discuss the elements of the art.
+3. Have students create their own art inspired by Native American art.
+4. Have students share their art with the class and discuss the similarities and differences between the art.
+
+### Additional notes
+- Encourage students to think about the symbolism and meaning behind the art they create.
+- Provide students with a list of questions to consider when creating their art, such as: What colors do you think best represent the culture? What symbols are important to the culture? What stories can you tell with your art?
+
+### Differentiation strategies
+- For students who need more support: Provide students with a list of suggested symbols and colors to use in their art.
+- For students who need more challenge: Ask students to research the history and culture of a specific Native American tribe and create art inspired by that tribe.
+- For neurodivergent students: Allow students to create art in a way that is comfortable for them, such as using a computer program or drawing with their hands.
+
+## Gratitude Games
+Students play games that focus on expressing gratitude.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Pencils
+- Gratitude cards
+
+### Procedure
+1. Introduce the concept of gratitude and why it is important.
+2. Explain the rules of the game and how it will be played.
+3. Divide the students into teams and have them brainstorm ideas for expressing gratitude.
+4. Have the teams create gratitude cards for each other.
+5. Have the teams present their cards to each other and discuss why they chose to express gratitude in that way.
+6. Have the students reflect on the activity and discuss how it made them feel.
+
+### Additional notes
+- The game should focus on expressing gratitude in creative ways, such as through art, music, or writing.
+- The game should also focus on expressing gratitude to people, animals, and the environment.
+- The game should be designed to be fun and engaging for the students.
+
+### Differentiation strategies
+- For students who need more support: provide additional guidance and structure for the game.
+- For students who need more challenge: provide more complex tasks and activities.
+- For neurodivergent students: provide additional breaks and allow for more flexible rules.
 
 # Math
 
- 
-## Gratitude Native American Art
+## Gratitude Tree
+Students create a tree with leaves of gratitude for the Native Americans.
 
-### Students create a piece of art in the style of a Native American tribe to express their gratitude.
+### Time estimate: 2 hours
 
-### Time Estimate
-Approximately 1 hour
-
-### List of Materials
-- Colored pencils
+### Materials
 - Construction paper
 - Markers
-- Glue
 - Scissors
-- Reference images of Native American art
+- Glue
 
 ### Procedure
-1. Introduce the lesson by discussing the importance of gratitude and how it is expressed in different cultures. 
-2. Show the students some examples of Native American art.
-3. Ask the students to brainstorm ideas for what they would like to create.
-4. Give each student a piece of construction paper and the other materials.
-5. Have the students create their art pieces, using the reference images as inspiration.
-6. When the students have finished, have them present their art pieces and explain why they chose to create what they did.
+1. Instruct students to draw a tree on a piece of construction paper.
+2. Explain the concept of gratitude and how it relates to Native Americans.
+3. Have students write down things they are grateful for on individual leaves and attach them to the tree.
+4. Have students share their gratitude trees with the class.
+5. Have students discuss how gratitude can help us appreciate the contributions of Native Americans.
 
-### Additional Notes
-- Encourage the students to think about how their art pieces represent their gratitude.
-- Help the students to think of creative ways to use the materials.
-- Provide additional reference images if needed.
+### Additional notes
+- Include a discussion about the importance of math in the construction of the tree.
+- Provide students with examples of how math can be used to measure the size of the tree, the size of the leaves, and the distance between the leaves.
 
 ### Differentiation strategies
-- For students who need more support: provide additional guidance and scaffolding throughout the activity.
-- For students who need more challenge: encourage them to use more complex techniques and to add more detail to their art pieces.
-- For neurodivergent students: provide additional breaks and allow them to work at their own pace.
+- For students who need more support: provide pre-made leaves with gratitude statements already written on them.
+- For students who need more challenge: have students create a 3D tree with leaves.
+- For neurodivergent students: provide a visual representation of the tree and leaves to help them understand the concept.
 
- 
-## Native American Patterns
+## Native American Math
+Students learn about Native American math and use it to solve addition and subtraction problems.
 
-### Students create a pattern using shapes and colors inspired by Native American art.
+### Time estimate: 2 hours
 
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Colored paper
-- Drawing materials (pencils, markers, crayons, etc.)
-- Native American art examples
-
-### Procedure
-
-1. Introduce the concept of Native American patterns. Show examples of various patterns and discuss the use of shapes and colors.
-
-2. Explain that the students will be creating their own patterns using shapes and colors inspired by Native American art.
-
-3. Give each student a sheet of paper and drawing materials.
-
-4. Encourage the students to experiment with different shapes and colors.
-
-5. When the students are done, have them share their patterns with the class.
-
-### Additional Notes
-
-- Explain to the students that Native American patterns are used to tell stories, and that they can create stories with their patterns.
-- Encourage the students to be creative and use their imagination.
-
-### Differentiation strategies
-
-For students who need more support:
-- Provide a template with shapes and colors already filled in.
-- Allow the students to work in pairs or small groups.
-
-For students who need more challenge:
-- Encourage the students to create more complex patterns.
-- Ask the students to explain the stories behind their patterns.
-
-For neurodivergent students:
-- Allow the students to use their own materials (e.g. stickers, glitter, etc.).
-- Provide a quiet space for the students to work.
-
- 
-## Native American Math Games
-
-### Students play math games based on Native American culture, such as counting in their language or creating a game based on a story.
-
-### Time Estimate
-
-This activity will take approximately 45 minutes.
-
-### List of Materials
-
+### Materials
+- Native American Math worksheets
 - Pencils
-- Paper
-- Native American stories
-- Counters (e.g. stones, coins, etc.)
+- Erasers
 
 ### Procedure
+1. Introduce the concept of Native American Math and its history
+2. Have students work in pairs to solve addition and subtraction problems using Native American Math
+3. Have students present their solutions to the class
+4. Discuss the solutions and how they relate to Native American Math
 
-1. Begin the lesson by introducing the concept of Native American math games.
-2. Ask the students to think of a Native American story they know or have heard of.
-3. Ask the students to create a game based on the story.
-4. Encourage the students to use counters to help them count and keep track of their progress.
-5. Allow the students to play their games with each other.
-6. Ask the students to explain the rules and the goal of their game to the rest of the class.
-7. Ask the students to count in the language of the Native American story they used.
-
-### Additional Notes
-
-- Encourage the students to use their imaginations and to think of creative ways to use the counters.
-- Ask the students to explain the math concepts they used in their game.
+### Additional notes
+- Questions to ask during the introduction: What is Native American Math? How is it different from the math we use today? What are some examples of how it was used?
+- The worksheets should include a variety of addition and subtraction problems
 
 ### Differentiation strategies
+- For students who need more support: Provide additional scaffolding and guidance when introducing the concept of Native American Math
+- For students who need more challenge: Ask students to create their own addition and subtraction problems using Native American Math
+- For neurodivergent students: Provide visual aids and/or verbal cues to help them understand the concept of Native American Math
 
-For students who need more support:
-- Provide additional support when creating the game.
-- Break the game into smaller steps.
-
-For students who need more challenge:
-- Ask them to create a more complex game.
-- Ask them to explain the math concepts they used in more detail.
-
-For neurodivergent students:
-- Allow them to use visuals, such as diagrams, to help them understand the game.
-- Allow them to take breaks as needed.
-
- 
 ## Native American Storytelling
+Students learn about Native American stories and use them to practice phonics and literacy.
 
-### Students learn about Native American stories and create their own stories using math concepts.
+### Time estimate: 2 hours
 
-### Time Estimate
-This activity will take approximately 1 hour and 30 minutes.
-
-### List of Materials
+### Materials
 - Native American stories
-- Math concepts
-- Pen and paper
+- pencils
+- paper
+- math manipulatives
 
 ### Procedure
-1. Start by introducing the students to Native American stories and their importance to the culture.
-2. Ask the students to brainstorm ideas for their own stories, using math concepts.
-3. Have the students write down their stories, using the math concepts they have brainstormed.
-4. Once the stories are complete, ask the students to share their stories with the class.
+1. Introduce the lesson by discussing the importance of Native American stories and how they can be used to practice phonics and literacy.
+2. Have students work in pairs to read and discuss a Native American story.
+3. Have students use math manipulatives to create a visual representation of the story.
+4. Have students write a summary of the story, using the math manipulatives as a guide.
+5. Have students share their summaries with the class and discuss the similarities and differences between them.
 
-### Additional Notes
-- Encourage the students to be creative and think outside the box when creating their stories.
-- Ask the students to explain the math concepts they used in their stories.
+### Additional notes
+- Encourage students to ask questions about the story and to make connections to their own lives.
+- Provide students with sentence starters to help them write their summaries.
+- Encourage students to use descriptive language when writing their summaries.
 
-### Differentiation Strategies
-- For students who need more support: Provide them with additional guidance and support when brainstorming ideas and writing their stories.
-- For students who need more challenge: Encourage them to use more complex math concepts in their stories.
-- For neurodivergent students: Allow them to create their stories in a way that is comfortable for them, such as using visual aids or audio recordings.
+### Differentiation strategies
+- For students who need more support: provide additional scaffolding and guidance when discussing the story and when writing the summary.
+- For students who need more challenge: provide more complex stories and encourage students to make more detailed connections between the story and their own lives.
+- For neurodivergent students: provide visual aids to help them understand the story and provide additional time to complete the summary.
+
+## Native American Art
+Students create art inspired by Native American culture and practice counting and arithmetic.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paints
+- Paintbrushes
+- Paper
+- Pencils
+- Crayons
+
+### Procedure
+1. Introduce the lesson by discussing the history and culture of Native Americans.
+2. Have students research Native American art and discuss the different styles.
+3. Have students create their own art inspired by Native American culture.
+4. Have students practice counting and arithmetic while creating their art.
+5. Have students share their art with the class and discuss their work.
+
+### Additional notes
+- Encourage students to think about the symbolism and meaning behind the art they create.
+- Provide examples of Native American art for students to reference.
+- Provide students with a list of questions to consider while researching Native American art.
+
+### Differentiation strategies
+- For students who need more support: Provide additional guidance and support while researching and creating art.
+- For students who need more challenge: Encourage students to create more complex art and use more advanced math concepts.
+- For neurodivergent students: Provide additional breaks and allow for more flexible work times.
+
+## Native American Games
+Students play traditional Native American games to practice addition and subtraction.
+
+### Time estimate: 2 hours
+
+### Materials
+- Native American game pieces
+- Paper and pencils for recording scores
+
+### Procedure
+1. Introduce the students to the traditional Native American games and explain the rules.
+2. Divide the students into teams and have them play the games.
+3. Have the students record their scores and discuss the results.
+4. Discuss how the games can be used to practice addition and subtraction.
+
+### Additional notes
+- Explain the history of the games and the culture of the Native American tribes that played them.
+- Provide examples of addition and subtraction problems related to the games.
+- Encourage the students to come up with their own variations of the games.
+
+### Differentiation strategies
+- For students who need more support: provide additional guidance and support when explaining the rules of the games.
+- For students who need more challenge: provide more complex addition and subtraction problems related to the games.
+- For neurodivergent students: provide visual aids to help explain the rules of the games.
 
 # Social Studies
 
- 
-## Gratitude Art
+## Native American Storytelling
+Students will learn about Native American culture by listening to stories told by a Native American storyteller.
 
-### Create a piece of art that expresses gratitude for the Native American culture.
+### Time estimate: 2 hours
 
-### Time Estimate
-
-Approximately 2 hours
-
-### List of Materials
-
-- Pencils
-- Paper
-- Colored pencils
-- Scissors
-- Glue
+### Materials
+- Native American stories
 - Native American artifacts (optional)
 
 ### Procedure
+1. Introduce the lesson by discussing the importance of Native American culture and its influence on American culture.
+2. Invite a Native American storyteller to the classroom to tell stories.
+3. Allow students to ask questions and discuss the stories.
+4. If possible, provide Native American artifacts for students to explore.
+5. Conclude the lesson by discussing the stories and their relevance to the students' lives.
 
-1. Introduce the activity to the students and explain why it is important to express gratitude for the Native American culture.
-
-2. Ask the students to brainstorm ideas for their art piece.
-
-3. Give the students time to create their art piece.
-
-4. Once the students have completed their art piece, have them share their work with the class.
-
-### Additional Notes
-
-- Encourage the students to use their creativity and express themselves freely.
-- If possible, provide the students with Native American artifacts to use in their art piece.
+### Additional notes
+- Encourage students to think critically about the stories and how they relate to their own lives.
+- Encourage students to ask questions and explore the stories further.
+- Encourage students to think about how the stories can be used to inform their own lives.
 
 ### Differentiation strategies
+- For students who need more support: Provide additional scaffolding and guidance when discussing the stories.
+- For students who need more challenge: Encourage students to think critically about the stories and how they relate to their own lives.
+- For neurodivergent students: Provide additional support and guidance when discussing the stories, and allow for more time to process the stories.
 
-- For students who need more support: Provide the students with a template to use as a starting point.
-- For students who need more challenge: Ask the students to create a 3D art piece.
-- For neurodivergent students: Allow the students to work on the activity at their own pace and provide them with a quiet space to work.
+## Native American Art
+Students will create art inspired by Native American culture, such as dreamcatchers, pottery, and jewelry.
 
- 
-## Native American Storytelling
+### Time estimate: 2 hours
 
-### Listen to and discuss stories about Native American culture and history.
-
-### Time Estimate
-
-Approximately 45 minutes
-
-### List of Materials
-
-- Access to Native American stories (e.g. books, audio recordings, videos, etc.)
-- Notebook or journal for each student
-- Pencils or pens
+### Materials
+- Dreamcatcher supplies
+- Pottery supplies
+- Jewelry supplies
 
 ### Procedure
+1. Introduce the lesson by discussing the history and culture of Native Americans
+2. Divide students into groups and assign each group a project
+3. Provide each group with the necessary supplies and instructions
+4. Allow students to work on their projects for the allotted time
+5. Have each group present their project to the class
 
-1. Introduce the lesson by explaining that students will be listening to and discussing Native American stories.
-2. Ask students to think about what they already know about Native American culture and history.
-3. Divide the class into small groups and provide each group with access to a selection of Native American stories.
-4. Ask each group to discuss the stories they have heard and to come up with questions they would like to ask about the stories.
-5. Ask each group to share their questions with the class.
-6. Ask the class to discuss the questions and to provide answers.
-7. Ask each student to write down their thoughts and reflections in their notebooks or journals.
-
-### Additional Notes
-
-- Encourage students to ask questions and to express their opinions.
-- Provide additional resources and materials, as needed and applicable.
-- Ask students to draw pictures or diagrams to help illustrate their understanding of the stories.
+### Additional notes
+- When discussing the history and culture of Native Americans, focus on the importance of respect for the environment and the value of storytelling
+- When assigning projects, consider the interests and abilities of each student
+- Instructions for each project should include safety guidelines and tips for successful completion
 
 ### Differentiation strategies
+- For students who need more support: provide additional guidance and assistance when needed
+- For students who need more challenge: provide more complex instructions and encourage them to be creative
+- For neurodivergent students: provide clear instructions and allow them to work at their own pace
 
-- For students who need more support: Provide additional resources and materials, and allow students to work in pairs or small groups.
-- For students who need more challenge: Ask students to research additional stories and to compare and contrast the stories.
-- For neurodivergent students: Provide additional time and space for students to process the stories and to express their thoughts and reflections.
+## Native American Music
+Students will learn about Native American music by listening to traditional songs and creating their own instruments.
 
- 
-## Native American Language Activity
+### Time estimate: 2 hours
 
-### Learn some basic words in a Native American language and practice speaking them.
-
-### Time Estimate
-
-Approximately 45 minutes.
-
-### List of Materials
-
-- A list of basic words in a Native American language
-- A whiteboard or chalkboard
+### Materials
+- Native American music recordings
+- Instruments for students to create
 
 ### Procedure
+1. Introduce the topic of Native American music
+2. Play a recording of a traditional song
+3. Discuss the song and its cultural context
+4. Have students create their own instruments
+5. Have students play their instruments and create a song
 
-1. Introduce the lesson by discussing the importance of Native American languages and the importance of preserving them.
-2. Ask the students to brainstorm a list of words that they would like to learn in the language.
-3. Write the words on the whiteboard or chalkboard.
-4. Go over the pronunciation of each word.
-5. Have the students practice saying the words aloud.
-6. Ask the students to come up with sentences using the words they just learned.
-7. Have the students practice saying the sentences aloud.
-
-### Additional Notes
-
-- Encourage the students to practice the words and sentences at home.
-- Provide examples of sentences using the words, if needed.
+### Additional notes
+- Encourage students to think about the cultural context of the song and how it relates to their own lives
+- Provide examples of traditional instruments and how they are made
 
 ### Differentiation strategies
+- For students who need more support: provide more guidance and structure when discussing the song and its cultural context
+- For students who need more challenge: encourage students to think more deeply about the cultural context of the song and how it relates to their own lives
+- For neurodivergent students: provide visual aids to help them understand the cultural context of the song
 
-- For students who need more support: Break the words down into syllables and have the students practice saying each syllable.
-- For students who need more challenge: Ask the students to come up with more words related to the topic and practice saying them.
-- For neurodivergent students: Provide visuals to help them understand the words and sentences.
+## Native American Games
+Students will learn about traditional Native American games and play them together.
 
- 
-## Native American Heritage Scavenger Hunt
+### Time estimate: 2 hours
 
-### Create a scavenger hunt to find facts about Native American heritage.
-
-### Time Estimate
-
-Approximately 45 minutes to one hour.
-
-### List of Materials
-
-- Pencils
-- Paper
-- Access to books or online resources about Native American heritage
+### Materials
+- Native American artifacts
+- Outdoor space
 
 ### Procedure
+1. Introduce the topic of Native American games and discuss the importance of outdoor education and student-led development.
+2. Divide the students into small groups and assign each group a different game to research.
+3. Have each group present their findings to the class.
+4. Allow the students to play the games together.
+5. Discuss the importance of traditional Native American games.
 
-1. Introduce the lesson by discussing the importance of Native American heritage and why it is important to learn about it.
-2. Divide the students into groups of two or three.
-3. Give each group a list of facts to find about Native American heritage.
-4. Instruct the groups to use books or online resources to find the facts.
-5. Allow the groups to work for 15 minutes.
-6. Ask each group to share their findings with the class.
+### Additional notes
+- Research topics could include: traditional Native American games, the history of the game, the rules of the game, and the cultural significance of the game.
+- Encourage the students to use their creativity to come up with their own variations of the game.
 
-### Additional Notes
+### Differentiation strategies
+- For students who need more support: provide additional guidance and support while researching and playing the games.
+- For students who need more challenge: encourage them to come up with their own variations of the game.
+- For neurodivergent students: provide additional time and support to ensure they are able to participate in the activity.
 
-- Encourage the students to ask questions and discuss their findings with each other.
-- Ask the students to present their findings in a creative way, such as a poster, a song, or a skit.
+## Native American Food
+Students will learn about traditional Native American food and cook a meal together.
 
-### Differentiation Strategies
+### Time estimate: 2 hours
 
-- For students who need more support: Provide a list of facts that are easier to find.
-- For students who need more challenge: Provide a list of facts that are more difficult to find.
-- For neurodivergent students: Allow the students to work in a quiet space, if needed.
+### Materials
+- Ingredients for a traditional Native American meal
+- Cooking utensils
+- Books or other resources about Native American food
+
+### Procedure
+1. Introduce the lesson by discussing the importance of traditional Native American food and its role in the culture
+2. Divide students into small groups and assign each group a traditional Native American dish to research
+3. Have each group present their findings to the class
+4. Have students work together to cook the meal
+5. Discuss the meal and the importance of traditional Native American food
+
+### Additional notes
+- Questions to ask during the research phase: What ingredients are used in the dish? What is the history of the dish? What is the significance of the dish in Native American culture?
+- Questions to ask during the cooking phase: What techniques are used to prepare the dish? How can we make sure the dish is cooked properly?
+- Questions to ask during the discussion phase: What did you learn about Native American food? What did you like about the dish you cooked?
+
+### Differentiation strategies
+- For students who need more support: Provide additional guidance and support during the research and cooking phases. Break down the tasks into smaller steps and provide more detailed instructions.
+- For students who need more challenge: Encourage students to research more in-depth and to come up with creative ways to present their findings. Ask more complex questions during the discussion phase.
+- For neurodivergent students: Provide visual aids and other resources to help them understand the material. Allow them to take breaks as needed and provide alternative activities if needed.
 
 # Science
 
- 
 ## Gratitude Garden
+Create a garden of gratitude by planting seeds and flowers that represent the things we are thankful for.
 
-### Students create a garden to express their gratitude for the environment and the people in their lives.
+### Time estimate: 2 hours
 
-### Time Estimate
-
-Approximately 2 hours
-
-### List of Materials
-
-- Seeds and soil
-- Plant pots or containers
-- Shovels and trowels
-- Watering cans
-- Paint and paintbrushes
-- Cardboard
-- Glue
-- Markers
+### Materials
+- seeds
+- flowers
+- pots
+- soil
+- water
 
 ### Procedure
+1. Explain the concept of gratitude and why it is important.
+2. Discuss the different ways we can express gratitude.
+3. Have students brainstorm things they are thankful for.
+4. Help students plant the seeds and flowers in the pots.
+5. Encourage students to talk about why they chose the particular seeds and flowers they planted.
+6. Discuss the importance of taking care of the plants and how it is related to expressing gratitude.
 
-1. Introduce the lesson by discussing the importance of gratitude and the environment.
-2. Ask students to brainstorm ideas for expressing their gratitude for the environment and the people in their lives.
-3. Divide students into groups of two or three and have each group select one idea to work on.
-4. Provide each group with the necessary materials to create their gratitude garden.
-5. Allow students to work on their projects for approximately 45 minutes.
-6. Once the projects are complete, have each group present their gratitude garden to the class.
-7. Discuss the projects and the importance of gratitude.
-
-### Additional Notes
-
-- Encourage students to use their imaginations and be creative with their projects.
-- Provide guidance and support as needed.
-- Remind students to be respectful of each other’s ideas and projects.
+### Additional notes
+- Encourage students to think of creative ways to express gratitude, such as writing a thank you note or making a gratitude collage.
+- Discuss the science behind the plants and how they grow.
+- Discuss the importance of taking care of the environment and how it is related to expressing gratitude.
 
 ### Differentiation strategies
+- For students who need more support: Provide additional guidance and support when brainstorming and planting the seeds and flowers.
+- For students who need more challenge: Encourage students to think of more creative ways to express gratitude.
+- For neurodivergent students: Provide additional time and support to complete the activity.
 
-- For students who need more support: Provide additional guidance and support as needed.
-- For students who need more challenge: Encourage students to think outside the box and come up with more creative ideas.
-- For neurodivergent students: Provide a quiet space for students to work on their projects if needed.
-
- 
 ## Native American Storytelling
+Listen to and discuss stories from Native American cultures and explore the themes of gratitude and seasonal changes.
 
-### Students listen to and discuss stories from Native American culture.
+### Time estimate: 2 hours
 
-### Time Estimate
-Approximately 45 minutes
-
-### List of Materials
+### Materials
 - Native American stories
-- Pen and paper
+- Paper and pencils
+- Outdoor space
 
 ### Procedure
-1. Introduce the topic of Native American storytelling.
-2. Read one of the stories aloud.
-3. Ask the students to reflect on the story and discuss their thoughts and feelings.
-4. Ask the students to draw a picture of what they imagine the story looked like.
-5. Read another story and repeat steps 3 and 4.
-6. Ask the students to share their stories and pictures with the class.
+1. Introduce the lesson and explain the themes of gratitude and seasonal changes
+2. Read a Native American story and discuss the themes
+3. Have students write their own stories based on the themes
+4. Go outdoors and explore the seasonal changes
+5. Discuss the changes and how they relate to the themes
 
-### Additional Notes
-- Encourage the students to use their imagination when drawing their pictures.
-- Ask the students to consider the moral of the story and how it relates to their lives.
-
-### Differentiation Strategies
-- For students who need more support: Provide them with a list of key words and phrases to help them understand the stories.
-- For students who need more challenge: Ask them to create their own stories based on the themes in the stories they heard.
-- For neurodivergent students: Allow them to listen to the stories instead of reading them aloud.
-
- 
-## Animal Science Scavenger Hunt
-
-### Students explore their local environment to find and identify animals and their food sources.
-
-### Time Estimate
-
-Approximately 1-2 hours, depending on the size of the area and number of students.
-
-### List of Materials
-
-- Binoculars
-- Magnifying glasses
-- Field guides
-- Notebooks and pencils
-- Camera (optional)
-
-### Procedure
-
-1. Introduce the activity to the students and explain the purpose of the scavenger hunt.
-
-2. Have the students form teams of two or three and assign each team a specific area to explore.
-
-3. Give each team a list of animals and food sources they should look for.
-
-4. Have the students use binoculars, magnifying glasses, and field guides to identify the animals and food sources.
-
-5. Have the students record their observations in their notebooks.
-
-6. If possible, have the students take pictures of the animals and food sources they find.
-
-7. When the teams are finished, have them come back together and share their findings.
-
-### Additional Notes
-
-- Encourage the students to be creative in their observations and to look for patterns in the environment.
-- Remind the students to be respectful of the environment and to not disturb the animals.
+### Additional notes
+- Encourage students to think about how the stories relate to science
+- Provide writing prompts to help students create their stories
+- Suggest activities to explore the seasonal changes, such as looking for signs of spring or fall
 
 ### Differentiation strategies
+- For students who need more support: provide additional scaffolding and guidance when discussing the stories and writing their own stories
+- For students who need more challenge: provide additional stories to read and discuss, and encourage them to explore the seasonal changes in more depth
+- For neurodivergent students: provide additional time and support when discussing the stories and writing their own stories, and provide additional sensory activities to explore the seasonal changes
 
-- For students who need more support, provide additional guidance and support in identifying the animals and food sources.
-- For students who need more challenge, provide additional resources to help them identify more complex animals and food sources.
-- For neurodivergent students, provide additional visual aids and/or verbal cues to help them identify the animals and food sources.
+## Gratitude Art
+Create art pieces that represent the things we are thankful for and explore the use of color to represent the changing seasons.
 
- 
-## Food Chain Art Project
+### Time estimate: 2 hours
 
-### Students create a visual representation of a local food chain.
-
-### Time Estimate
-
-Approximately 1 hour.
-
-### List of Materials
-
+### Materials
 - Paper
-- Colored pencils, crayons, or markers
-- Scissors
+- Pens/Pencils
+- Paint/Markers
+- Construction Paper
 - Glue
 
 ### Procedure
+1. Introduce the concept of gratitude and the idea of creating art to express it.
+2. Discuss the changing seasons and how they can be represented through color.
+3. Provide students with materials and allow them to create their own art pieces.
+4. Discuss the art pieces and how they represent the things the students are thankful for.
 
-1. Introduce the concept of food chains and explain how they work.
-2. Ask students to brainstorm a list of local plants and animals that form a food chain.
-3. Ask students to draw a picture of the food chain they have identified.
-4. Ask students to cut out their drawings and arrange them in a circle to form a food chain.
-5. Ask students to glue their drawings onto a piece of paper.
-
-### Additional Notes
-
-- Encourage students to use their creativity when drawing and arranging their food chain.
-- Ask students to label their drawings with the names of the plants and animals.
+### Additional notes
+- Encourage students to think about the science behind the changing seasons and how it affects the colors of the art pieces.
+- Provide examples of art pieces that represent the changing seasons.
 
 ### Differentiation strategies
+- For students who need more support: Provide additional guidance and support when discussing the changing seasons and how they can be represented through color.
+- For students who need more challenge: Encourage students to think about the science behind the changing seasons and how it affects the colors of the art pieces.
+- For neurodivergent students: Provide additional time and support when discussing the changing seasons and how they can be represented through color.
 
-- For students who need more support: Provide them with a template or model of what a food chain looks like.
-- For students who need more challenge: Ask them to identify and draw a more complex food chain.
-- For neurodivergent students: Allow them to work independently or with a partner, and provide them with additional time to complete the project.
+## Plant Investigation
+Investigate the changes in plants throughout the seasons and explore the different parts of a plant.
+
+### Time estimate: 2 hours
+
+### Materials
+- Plants
+- Magnifying glasses
+- Notebooks
+- Pencils
+- Crayons
+
+### Procedure
+1. Introduce the lesson and explain the goal of the activity
+2. Have students observe the plants and record their observations in their notebooks
+3. Discuss the different parts of a plant and how they change throughout the seasons
+4. Have students draw a picture of the plants they observed
+5. Discuss the importance of outdoor education and student-led development
+6. Discuss the scientific concepts related to the activity
+
+### Additional notes
+- Encourage students to ask questions and make predictions about the plants they observe
+- Provide students with a list of questions to ask when observing the plants (e.g., What color are the leaves? How many petals does the flower have?)
+- Provide students with a list of scientific terms related to the activity (e.g., photosynthesis, pollination, etc.)
+
+### Differentiation strategies
+- For students who need more support: Provide additional guidance and support when observing the plants and discussing the scientific concepts
+- For students who need more challenge: Ask students to make predictions about the plants and discuss the scientific concepts in more detail
+- For neurodivergent students: Provide visual aids (e.g., diagrams, pictures, etc.) to help explain the scientific concepts
+
+## Gratitude Writing
+Write stories, poems, or letters expressing gratitude and explore the use of descriptive language to capture the changing seasons.
+
+### Time estimate: 2 hours
+
+### Materials
+- Paper
+- Pencils
+- Colored Pencils
+
+### Procedure
+1. Introduce the concept of gratitude and the activity
+2. Have students brainstorm ideas for stories, poems, or letters expressing gratitude
+3. Discuss the use of descriptive language to capture the changing seasons
+4. Have students write their stories, poems, or letters
+5. Have students share their work with the class
+
+### Additional notes
+- Writing Prompts: What are you grateful for? How does the changing of the seasons make you feel? What are some of your favorite memories from the past year?
+- Interview Questions: What do you appreciate about your family? What do you appreciate about your friends?
+- Puzzle Clues: What is something that you are thankful for that starts with the letter 'A'? What is something that you are thankful for that starts with the letter 'B'?
+
+### Differentiation strategies
+- For students who need more support: Provide sentence starters and/or a word bank to help them get started.
+- For students who need more challenge: Ask them to use more complex language and/or to write longer pieces.
+- For neurodivergent students: Allow them to use alternative methods of expressing their gratitude, such as drawing or creating a collage.
