@@ -1,7 +1,9 @@
+.venv*
 env
 */.ipynb_checkpoints/*
 data/*
 .env
+output/checkpoint*
 *DS_Store*
 /output/backup*
 notebooks/*backup*.ipynb
